@@ -13,11 +13,14 @@ A B C D E F G H
 A B C D E F G H I
 A B C D E F G H I J
 """
+# Definir el número de filas para el patrón
+num_filas = 26  # Para el alfabeto completo
 
-n = int(input(""))
+# Crear el patrón de letras de la 'A' a la 'Z'
+for i in range(1, num_filas + 1):
+    letra = 65  # Código ASCII para 'A'
+    for j in range(0, i):
+        print(chr(letra + j), end=" ")
+    print()
 
 
-for x in range (1, n + 1):
-    print("")
-    for x in range (1, x + 1):
-        print()

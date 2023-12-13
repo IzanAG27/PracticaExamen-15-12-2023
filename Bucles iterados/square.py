@@ -12,21 +12,15 @@ output
 #####
 """
 
-#Primera línea
-num = 7
+num = int(input(""))
+
 for x in range (num):
     print("#", end="")
 print()
 
-
-# Líneas internas
 for x in range(num - 2):
-    print("#", end="")
-    for y in range(num - 2):
-        print(" ", end="")
-    print("#")
+    print("#" + " " * (num - 2) + "#")
 
 #Última linea
 for x in range (num):
     print("#", end="")
-
