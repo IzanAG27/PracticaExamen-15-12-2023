@@ -13,3 +13,10 @@ output
 8 16 24 32 40 48 56 64 72
 9 18 27 36 45 54 63 72 81
 """
+for i in range(1,11):
+    for j in range(1,11):
+        if j * i < 10:
+            print(j*i, end="  ")
+        else:
+            print(j*i, end=" ")
+    print()
