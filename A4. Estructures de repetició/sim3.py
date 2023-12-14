@@ -1,0 +1,4 @@
+BLANC = "B"
+NEGRE = "N"
+
+
