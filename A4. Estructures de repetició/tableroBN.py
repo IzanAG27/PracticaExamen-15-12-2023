@@ -1,50 +1,39 @@
-BLANC = " B "
-NEGRE = " N "
-TORRE = " T "
-MOVTORRE = " * "
+# Crear el tablero de ajedrez
+taulell = [[' ' for _ in range(8)] for _ in range(8)]
 
-tablero = [[BLANC if (fila + columna) % 2 == 0 else NEGRE for columna in range(8)] for fila in range(8)]
+# Llenar el tablero con 'B' y 'N' para las casillas blancas y negras respectivamente
+for i in range(8):
+    for j in range(8):
+        if (i + j) % 2 == 0:
+            taulell[i][j] = 'B'
+        else:
+            taulell[i][j] = 'N'
 
-numeros = [str(i) for i in range(8, 0, -1)]  # Lista de números de fila
+posicion_valida = False
 
-print("Tablero de ajedrez:")
-for fila in range(8):
-    for columna in range(8):
-        print(tablero[fila][columna], end=" ")
-    print(numeros[fila])  # Muestra los números de fila correspondientes
+# Pedir al usuario la posición de la torre
+while not posicion_valida:
+    try:
+        fila = int(input("Introduce la fila de la torre (1-8): "))
+        columna_letra = input("Introduce la columna de la torre (A-H): ")
 
-print(" a   b   c   d   e   f   g   h")  # Muestra las letras de columna
+        # Convertir la letra a número de columna
+        columna = ord(columna_letra.upper()) - ord('A') + 1
 
-# Obtener coordenadas de la torre
-coordenada_torre = input("Introduce las coordenadas para la torre (8a - 1h): ")
+        if 1 <= fila <= 8 and 1 <= columna <= 8:
+            posicion_valida = True
+        else:
+            print("Debes ingresar valores válidos.")
+    except ValueError:
+        print("Por favor, ingresa un valor válido para la fila.")
 
-# Verificar coordenadas
-fila_letra = coordenada_torre[0]
-columna_letra = coordenada_torre[1]
-
-# Validar coordenadas
-if '1' <= fila_letra <= '8' and 'a' <= columna_letra <= 'h':
-    fila_numero = int(fila_letra)
-    columna_torre = ord(columna_letra) - ord('a')
-
-    fila_torre = 8 - fila_numero  # Ajuste de la fila
-
-    tablero[fila_torre][columna_torre] = TORRE
-
-    # Marcar los movimientos posibles de la torre en el tablero
-    for i in range(8):
-        if i != fila_torre:
-            tablero[i][columna_torre] = MOVTORRE
-        if i != columna_torre:
-            tablero[fila_torre][i] = MOVTORRE
-
-    # Mostrar el tablero resultante con la torre y sus movimientos posibles
-    print("\nTablero con la torre y sus movimientos posibles:")
-    for fila in range(8):
-        for columna in range(8):
-            print(tablero[fila][columna], end=" ")
-        print(numeros[fila])  # Muestra los números de fila correspondientes
-
-    print(" a   b   c   d   e   f   g   h")  # Muestra las letras de columna
-else:
-    print("Coordenadas no válidas.")
+# Mostrar el tablero con las casillas blancas y negras, y marcar las casillas a las que se puede mover la torre con '*'
+print('  A B C D E F G H')
+for i in range(8):
+    print(8 - i, end=' ')
+    for j in range(8):
+        if (i + 1 == fila) or (j + 1 == columna):
+            print('*', end=' ')
+        else:
+            print(taulell[i][j], end=' ')
+    print()
