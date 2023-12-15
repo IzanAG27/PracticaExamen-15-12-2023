@@ -1,8 +1,13 @@
-"""
-Escriu un programa que demani números per teclat fins que s'introdueix un zero.
-El programa haurà d'imprimir la suma i la mitjana de tots els números introduïts.
-"""
+limite = int(input("Introduce un número límite: "))
 
-nums = input("").split()
+suma_pares = 0
+suma_impares = 0
 
-if nums[0:] == 0:
+for i in range(limite):
+    if i % 2 == 0:
+        suma_pares += i
+    else:
+        suma_impares += i
+
+print(f"Si el límite es {limite}, la suma de los números pares es: {suma_pares}")
+print(f"Si el límite es {limite}, la suma de los números impares es: {suma_impares}")
