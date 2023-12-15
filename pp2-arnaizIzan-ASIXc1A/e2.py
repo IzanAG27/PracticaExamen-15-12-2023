@@ -20,26 +20,26 @@
 """
 
 # Pedimos al usuario que nos introduzca una frase y la letra que quiere cambiar
-cadena = input("Dime una frase: ")
-letra_original = input("¿Qué letra quieres cambiar?: ")
+cadena = input("Dime la frase: ")
+caracter_original = input("Que caracter quieres cambiar: ")
 
-# Esta parte indica que si el usuario falla por razón X al introducir una letra,
-# Saltará un error y le volverá a preguntar que letra quiere seleccionar.
-while len(letra_original) != 1 or letra_original not in cadena:
-    print("Error: introduce una sola letra existente en la cadena.")
-    letra_original = input("¿Qué letra quieres cambiar?: ")
+# Si introduce mas de 2 caracteres en el input del caracter original, saltará un error indicando que
+# no puede poner 2 carácteres seguidos y volverá a preguntar de nuevo.
+while len(caracter_original) != 1 or caracter_original not in cadena:
+    print("Error: introduce un solo carácter existente en la cadena o una letra que exista en la cadena.")
+    caracter_original = input("¿Qué letra quieres cambiar?: ")
 
-# Pedimos que letra quiere cambiar por la letra seleccionada anteriormente
-letra_nueva = input("Introduce la nueva letra: ")
+# Pedimos al usuario que introduza el caracter por el cual quiere sustituir.
+caracter_nuevo = input("Introduce la nueva letra: ")
 
-# Si introduce mas de 2 en la nueva letra, saltará un error indicando que no puede poner 2 letras,
-# Y volverá a preguntar.
-while len(letra_nueva) != 1:
+# Si introduce mas de 2 carácteres en el input del carácter nuevo, saltará un error
+# indicando que no puede poner 2 letras y volverá a preguntar de nuevo.
+while len(caracter_nuevo) != 1:
     print("Error: introduce solo una letra.")
-    letra_nueva = input("Introduce la nueva letra: ")
+    caracter_nuevo = input("Introduce la nueva letra: ")
 
-if letra_original not in cadena:
-    print("Error: La letra a cambiar no está en la cadena.")
-else:
-    cadena = cadena.replace(letra_original, letra_nueva)
-    print("Cadena cambiada:", cadena)
+# Si el caracter original está contemplado en char, intercambia el caracter nuevo por intercambio original en char.
+for char in str(cadena):
+    if caracter_original == char:
+        char = caracter_nuevo
+    print(char, end="")
