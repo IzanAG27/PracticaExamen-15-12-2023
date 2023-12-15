@@ -12,7 +12,7 @@ try:
         for l in range(1, 9):
                 if ((cordx == l or cordy == y) or (cordx + cordy == y + l or cordx - cordy == l - y)) and l == 8:
                     print("*", end="\n")
-                elif (cordx == l or cordy == y) or (cordx + cordy == y + l or cordx - cordy == l - y):
+                elif(cordx + cordy == y + l or cordx - cordy == l - y):
                     print("*", end=" ")
                 elif l == 8:
                     print(aux2, end="\n")
@@ -21,6 +21,8 @@ try:
                 else:
                     print(aux2, end=" ")
     print("----------------")
-    print("1 2 3 4 5 6 7 8")
-except:
-    print("Value Error")
+    print("  1 2 3 4 5 6 7 8")
+except ValueError:
+    print("Error de datos")
+finally:
+    print("Programa terminado")

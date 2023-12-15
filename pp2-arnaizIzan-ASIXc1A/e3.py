@@ -3,47 +3,40 @@
  Grupo: ASIXc1A M03
  Fecha: 15/12/2023
  Enunciado:
-
+    Programa que printa por pantalla una matriz de 8x8 (filas y columnas) con zeros en cada posicion,
+    con excepción de:
+    · Pintar un 1 a les posicions de la diagonal que va de 0.0 a 7.7
+    · Pintar un 2 a les posicions de la diagonal inversa que va de 0.7 a 7.0
+    Cal fer un control d'errors. Obligatori fer servir sentencies de repetició, no es pot solucionar amb un print.
 """
+try:
 
+    # Pedimos las coordendas al usuario
+    coordenadas = input("Introduce las coordenadas:  ").split()
+    xCoord = int(coordenadas[0])
+    yCoord = int(coordenadas[1])
 
-# Crear el tablero de ajedrez
-TableroAjedrez = [[' ' for _ in range(8)] for _ in range(8)]
-
-# Llenar el tablero con 0 para las casillas blancas y negras respectivamente
-for i in range(8):
-    for j in range(8):
-        if (i + j) % 2 == 0:
-            taulell[i][j] = '0'
+    for o in range(1, 8 + 1):
+        if o / 2 != o // 2:
+            var1 = "0"
+            var2 = "0"
         else:
-            taulell[i][j] = '0'
+            var1 = "0"
+            var2 = "0"
 
-posicion_valida = False
+        for p in range(1, 8 + 1):
+                if ((xCoord == p or yCoord == o) or (xCoord + yCoord == o + p or xCoord - yCoord == p - o)) and p == 8:
+                    print("1",end="\n")
+                elif xCoord + yCoord == o + p or xCoord - yCoord == p - o:
+                    print("2",end=" ")
+                elif p // 2 != p / 2:
+                    print(var1,end=" ")
+                elif p == 8:
+                    print(var2,end=" \n")
 
-# Pedir al usuario la posición de las coordenadas
-while not posicion_valida:
-    try:
-        fila = int(input("Introduce la fila de la torre (1-8): "))
-        columna_letra = input("Introduce la columna de la torre (A-H): ")
-
-        # Convertir la letra a número de columna
-        columna = ord(columna_letra.upper()) - ord('A') + 1
-
-        if 1 <= fila <= 8 and 1 <= columna <= 8:
-            posicion_valida = True
-        else:
-            print("Debes introducir valores válidos.")
-    except ValueError:
-        print("Introduce un solo valor para la fila.")
-
-# Mostrar el tablero con las casillas con zeros, y marcar las casillas a las que se puede con '1' y '2'
-print('  A B C D E F G H')
-print('-----------------')
-for i in range(8):
-    print(8 - i, end=' ')
-    for j in range(8):
-        if (i + 1 == fila) or (j + 1 == columna):
-            print('1', end=' ')
-        else:
-            print(taulell[i][j], end=' ')
-    print()
+                else:
+                    print(var2,end=" ")
+except ValueError:
+    print("\nIntroduce correctamente los valores")
+finally:
+    print("\n/_|*_·_*|_/ Programa terminado /_|*_·_*|_/")

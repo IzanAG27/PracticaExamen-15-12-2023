@@ -16,10 +16,13 @@
     5, 6, 10, 9, 5, 8, 9
 """
 
-
+# Pedimos las notas
 notas = [int(nota) for nota in input("").split()]
+# Listas de aprovados y suspendidos
 aprovat = []
 suspes = []
+
+# Si la nota es mayor a 5 es aprovado, sino suspendido
 for i in notas:
     if i >= 0 and i <= 10:
         if i >= 5 and i <= 10:
@@ -28,6 +31,8 @@ for i in notas:
             suspes.append(i)
     else:
         print("Introduce valores positivos entre 0 y 10")
+
+print("Printea los valores")
 print("· Total de notes: ")
 print(f"--Han aprovat aquestes notes: \n{aprovat}")
 print(f"--Han suspes aquestes notes: \n{suspes}")
