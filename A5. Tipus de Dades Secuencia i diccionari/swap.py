@@ -5,5 +5,6 @@ num = input("").split()
 aux = num[0]
 
 print(int(num[-1]))
+for num in num
 print(num[1:-2])
 print(int(num[0]))
