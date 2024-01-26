@@ -16,6 +16,7 @@ try:
     xCoord = int(coordenadas[0])
     yCoord = int(coordenadas[1])
 
+    # Rellene el tablero de 0
     for o in range(1, 8 + 1):
         if o / 2 != o // 2:
             var1 = "0"
