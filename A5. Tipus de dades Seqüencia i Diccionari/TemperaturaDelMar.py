@@ -37,12 +37,12 @@ temperatura_maxima = 0
 temperatura_minima = 100
 
 for i in range(12):
-    temperatura_mitjana += temperatura[22][i]
-    if temperatura[22][i] > temperatura_maxima:
-        temperatura_maxima = temperatura[22][i]
+    temperatura_mitjana += TEMPERATURA[22][i]
+    if TEMPERATURA[22][i] > temperatura_maxima:
+        temperatura_maxima = TEMPERATURA[22][i]
 
-    if temperatura[22][i] < temperatura_minima:
-        temperatura_minima = temperatura[22][i]
+    if TEMPERATURA[22][i] < temperatura_minima:
+        temperatura_minima = TEMPERATURA[22][i]
 
 print(f"Any 2022:\n"
       f"Maxima: {temperatura_maxima}\n"
@@ -55,12 +55,12 @@ temperatura_minima = 100
 
 for i in range(23):
     for j in range(12):
-        temperatura_mitjana += temperatura[i][j]
-        if temperatura[i][j] > temperatura_maxima:
-            temperatura_maxima = temperatura[i][j]
+        temperatura_mitjana += TEMPERATURA[i][j]
+        if TEMPERATURA[i][j] > temperatura_maxima:
+            temperatura_maxima = TEMPERATURA[i][j]
 
-        if temperatura[i][j] < temperatura_minima:
-            temperatura_minima = temperatura[i][j]
+        if TEMPERATURA[i][j] < temperatura_minima:
+            temperatura_minima = TEMPERATURA[i][j]
 
 print(f"Periode 2000 a 2022:\n"
       f"Maxima: {temperatura_maxima}\n"
