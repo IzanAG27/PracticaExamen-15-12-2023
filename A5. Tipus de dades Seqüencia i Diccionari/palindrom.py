@@ -1,7 +1,4 @@
 palabra = input("").split()
-posInicial = 0
-posFinal = 0
-aux = ""
 devnull = []
 sinEspaciosON = ""
 sinEspaciosRV = ""
