@@ -5,8 +5,8 @@
 
 frase = input("")
 
-for x in frase:
-    if x == frase[-1]:
-        print(ord(x), end="")
+for x in range(len(frase)):
+    if x == len(frase) - 1:
+        print(ord(frase[x]), end="")
     else:
-        print(ord(x), end=".")
+        print(ord(frase[x]), end=".")
