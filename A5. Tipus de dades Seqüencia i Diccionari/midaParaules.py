@@ -1,25 +1,24 @@
-# Crear una variable per emmagatzemar 666 paraules
-paraules = [''] * 666
-# Mostrar tot el contingut de la variable
-print("Contingut inicial:")
-# Omplir-la pel teclat amb paraules fins que es introdueixi "\q"
-max_llargada = 0
-index = 0
-continuar_introduint = True
-while index < len(paraules) and continuar_introduint:
-    paraula = input("Introdueix una paraula (o '\\q' per sortir): ")
-    if paraula == "\\q":
-        continuar_introduint = False
+# Crear una variable para almacenar 666 palabras
+LONGUITUD = 666
+palabras = [''] * LONGUITUD
+# Mostrar el contenido inicial de la variable
+print("Contenido inicial:")
+# Llenarla por teclado con palabras hasta que se introduzca "\q"
+max_longitud = 0
+indice = 0
+continuar_introduciendo = True
+print(palabras)
+while indice < len(palabras) and continuar_introduciendo:
+    palabra = input("Introduce una palabra (o '\\q' para salir): ")
+    if palabra == "\\q":
+        continuar_introduciendo = False
     else:
-        paraules[index] = paraula
-        # Actualitzar la longitud màxima
-        if len(paraula) > max_llargada:
-            max_llargada = len(paraula)
-        index += 1
-# Mostrar la longitud màxima de les paraules introduïdes
-print("La longitud màxima de les paraules introduïdes és:", max_llargada)
-# Crear una tupla amb les paraules i les seves longituds
-tupla_paraules_mides = tuple((paraula, len(paraula)) for paraula in paraules if paraula)
-# Mostrar la tupla amb les paraules i mides corresponents
-print("Tupla amb paraules i mides:")
-print(tupla_paraules_mides)
+        palabras[indice] = palabra
+        # Actualizar la longitud máxima
+        if len(palabra) > max_longitud:
+            max_longitud = len(palabra)
+        indice += 1
+print("La longitud máxima de las palabras introducidas es:", max_longitud)
+tupla_palabras_longitudes = tuple((palabra, len(palabra)) for palabra in palabras if palabra)
+print("Tupla con palabras y longitudes:")
+print(tupla_palabras_longitudes)

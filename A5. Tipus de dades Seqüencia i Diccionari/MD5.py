@@ -1,6 +1,10 @@
 """
-    Nombre: Izan
-    Data: 1/2/2024
+    Nombre: Izan Arnaiz Gallego
+    Data: 01/02/2023
+    Examen: PP3
+    Grup: ASIXc1A
+    Descripció:
+
 """
 
 frase = input("")
