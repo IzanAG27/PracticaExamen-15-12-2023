@@ -9,6 +9,3 @@ def main():
         mitjana, diccionario = kernel.calcularTemperaturaMitjana(i+1, temp_minima, temp_maxima)
     print(diccionario)
 
-
-if __name__ == "__main__":
-    main()

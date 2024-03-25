@@ -4,3 +4,7 @@
 #   num1, num2 = kernel.pedir_numeros() --> le paso el argumento num1 y num2
 # para utilizarlos en kernel.comprobar_multiplo(num1, num2)
 #   kernel.comprobar_multiplo(num1, num2)
+
+
+// Comprobar que no este vacia la cadena
+
