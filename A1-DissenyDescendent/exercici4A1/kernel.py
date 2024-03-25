@@ -1,3 +1,11 @@
+
+"""
+Este programa toma una cadena de texto como
+entrada y añade un espacio entre cada carácter.
+Imprime la cadena resultante. Si la cadena de
+entrada está vacía, imprime "La cadena está vacía".
+"""
+
 def pedir_cadena():
     cadena = input("Texto: ")
     return cadena

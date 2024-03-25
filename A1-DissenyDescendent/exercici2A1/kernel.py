@@ -1,3 +1,10 @@
+"""
+Este programa toma dos números como entrada y
+comprueba si el primer número es múltiplo del segundo.
+Imprime True si el primer número es múltiplo del segundo,
+y False en caso contrario.
+"""
+
 def pedir_numeros():
     num1 = int(input("Numero 1: "))
     num2 = int(input("Numero 2: "))
