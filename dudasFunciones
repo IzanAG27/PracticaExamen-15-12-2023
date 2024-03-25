@@ -1,0 +1,6 @@
+# Acordarse de pasar como parametro en main para que no hayan errores
+# Ejemplo:
+# def main():
+#   num1, num2 = kernel.pedir_numeros() --> le paso el argumento num1 y num2
+# para utilizarlos en kernel.comprobar_multiplo(num1, num2)
+#   kernel.comprobar_multiplo(num1, num2)

@@ -19,6 +19,6 @@ while indice < len(palabras) and continuar_introduciendo:
             max_longitud = len(palabra)
         indice += 1
 print("La longitud máxima de las palabras introducidas es:", max_longitud)
-tupla_palabras_longitudes = tuple((palabra, len(palabra)) for palabra in palabras if palabra)
+tuplaLonguitud = tuple((palabra, len(palabra)) for palabra in palabras if palabra)
 print("Tupla con palabras y longitudes:")
-print(tupla_palabras_longitudes)
+print(tuplaLonguitud)
