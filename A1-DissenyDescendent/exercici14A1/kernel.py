@@ -8,18 +8,26 @@ def menu():
                        "\n  3. Longuitud de la pila\n  4. Mostrar pila\n  5. Sortir"))
     return opcion
 
+def pila():
+    pila = []
+    return pila
 
-# def llargadaPila():
-#
-#
-# def estaBuidaPila():
-#
-#
-# def afegeixAPila():
-#
-#
-# def treureDeLaPila():
-#
-#
-# def mostrarPila():
-#
+def afegeixAPila():
+
+def treureDeLaPila():
+
+def llargadaPila():
+
+def mostrarPila():
+
+def estaBuidaPila():
+
+
+
+
+
+
+
+
+def mostrarPila():
+
