@@ -1,0 +1,3 @@
+"""
+Execució programa principal
+"""
