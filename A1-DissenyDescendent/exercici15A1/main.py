@@ -1,5 +1,6 @@
 import kernel
 
+
 def main():
     cua = []
     while True:
@@ -24,6 +25,7 @@ def main():
             break
         else:
             print("Opción no válida. Inténtalo de nuevo.")
+
 
 if __name__ == "__main__":
     main()

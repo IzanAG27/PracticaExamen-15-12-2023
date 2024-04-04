@@ -20,4 +20,4 @@ def mostrarCua(cua):
     else:
         print("Primer elemento:", cua[0])
         print("Último elemento:", cua[-1])
-        print("Cua completa:", cua)
+        print("Cua completa:", ' '.join(cua))

@@ -23,4 +23,4 @@ def mostrarPila(pila):
     else:
         print("Primer elemento:", pila[0])
         print("Último elemento:", pila[-1])
-        print("Pila completa:", pila)
+        print("Pila completa:", ' '.join(pila))
