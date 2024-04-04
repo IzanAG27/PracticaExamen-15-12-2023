@@ -6,7 +6,7 @@
 """
 
 
-def contar_vocales_y_consonantes(frase):
+def procesar_frase(frase):
     vocales = 'aeiou'
     letras = {}
     for i, letra in enumerate(frase.lower(), start=1):
@@ -20,34 +20,21 @@ def contar_vocales_y_consonantes(frase):
             else:
                 letras[letra]['cantidad'] += 1
                 letras[letra]['posiciones'].append(i)
-    return letras
-
-
-def validar_frase(frase):
     palabras = frase.split()
-    return len(palabras)
+    es_valida = len(palabras) > 2
+    return letras, es_valida
 
 
-def obtener_frase():
-    return input("")
+def calcular_letras():
+    frase = input("")
+    letras, es_valida = procesar_frase(frase)
+    if not es_valida:
+        print("La frase debe contener más de dos palabras.")
+    else:
+        imprimir_resultado(letras)
 
 
 def imprimir_resultado(letras):
     print("Lletra    Quantitat    Posició")
     for letra, datos in letras.items():
         print(f"{letra}         {datos['cantidad']}            {', '.join(map(str, datos['posiciones']))}")
-
-
-def calcular_letras():
-    seguir = True
-    while seguir:
-        frase = obtener_frase()
-        if frase == "\\q":
-            seguir = False
-        elif not validar_frase(frase):
-            print("La frase debe contener más de dos palabras.")
-        else:
-            letras = contar_vocales_y_consonantes(frase)
-            imprimir_resultado(letras)
-            seguir = False
-    print("\n")

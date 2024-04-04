@@ -7,25 +7,15 @@
 from SystemColors import *
 
 
-def contiene_letras(texto):
-    return any(caracter.isalpha() for caracter in texto)
-
-
-def obtener_entrada():
-    texto = input("")
-    if texto == '':
-        print("La cadena está vacía. Por favor, introduce un texto.")
-        return texto
-    if not contiene_letras(texto):
-        print("La cadena solo contiene números, los cuales no se van a pintar.")
-    return texto
-
-
-def colorear_caracter(caracter):
-    if caracter.isdigit():
-        return caracter
-    color = obtener_color(caracter) if es_vocal(caracter) else BLACK
-    return color + caracter + FEND
+def obtener_entrada_valida():
+    while True:
+        texto = input("")
+        if texto == '':
+            print("La cadena está vacía. Por favor, introduce un texto.")
+        elif not any(caracter for caracter in texto):
+            print("La cadena solo contiene números, los cuales no se van a pintar.")
+        else:
+            return texto
 
 
 def es_vocal(caracter):
@@ -33,18 +23,9 @@ def es_vocal(caracter):
 
 
 def obtener_color(caracter):
-    if caracter.lower() == 'a' or caracter.lower() == 'á':
-        return RED
-    elif caracter.lower() == 'e' or caracter.lower() == 'é':
-        return GREEN
-    elif caracter.lower() == 'i' or caracter.lower() == 'í':
-        return YELLOW
-    elif caracter.lower() == 'o' or caracter.lower() == 'ó':
-        return BLUE
-    elif caracter.lower() == 'u' or caracter.lower() == 'ú':
-        return VIOLET
-    else:
-        return BLACK
+    colores = {'a': RED, 'á': RED, 'e': GREEN, 'é': GREEN, 'i': YELLOW, 'í': YELLOW, 'o': BLUE, 'ó': BLUE, 'u': VIOLET,
+               'ú': VIOLET}
+    return colores.get(caracter.lower(), BLACK)
 
 
 def colorear_caracter(caracter):
@@ -57,7 +38,6 @@ def colorear_texto(texto):
 
 
 def mostrar_texto_pintado():
-    texto = obtener_entrada()
-    if contiene_letras(texto):
-        texto_coloreado = colorear_texto(texto)
-        print(texto_coloreado)
+    texto = obtener_entrada_valida()
+    texto_coloreado = colorear_texto(texto)
+    print(texto_coloreado)

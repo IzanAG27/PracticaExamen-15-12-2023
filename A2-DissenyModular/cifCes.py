@@ -8,7 +8,7 @@
 
 def obtener_entrada():
     entrada = input("")
-    partes = entrada.split(maxsplit=1)  # Dividir la entrada en dos partes: desplazamiento y texto
+    partes = entrada.split(maxsplit=1)
     return partes
 
 
@@ -36,7 +36,7 @@ def cifrado_cesar(texto, desplazamiento):
             caracter_cifrado = chr((ord(caracter) - desplazamiento_ascii + desplazamiento) % 26 + desplazamiento_ascii)
             resultado += caracter_cifrado
         else:
-            resultado += caracter  # Los espacios y otros caracteres no alfabéticos se mantienen sin cambios
+            resultado += caracter
     return resultado
 
 

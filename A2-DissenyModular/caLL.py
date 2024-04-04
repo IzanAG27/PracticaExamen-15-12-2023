@@ -4,37 +4,29 @@
    ASIXc M03 UF2 A2 Mòduls i Fitxers
    04/04/2024
 """
-import string
 import re
 
 
-def contar_letras_y_caracteres(frase):
+def procesar_frase(frase):
     num_caracteres = len(frase.replace(" ", ""))
     num_letras = len(re.findall(r'[a-zA-Z]', frase))
-    return num_caracteres, num_letras
-
-
-def validar_frase(frase):
     palabras = frase.split()
-    return len(palabras) > 2
+    es_valida = len(palabras) > 2
+    return num_caracteres, num_letras, es_valida
 
 
 def calcular_letras():
     frases = []
-    seguir = True
-    while seguir:
+    comprobar = True
+    while comprobar:
         frase = input("")
         if frase == "\\q":
-            seguir = False
-        elif not validar_frase(frase):
+            comprobar = False
+        num_caracteres, num_letras, es_valida = procesar_frase(frase)
+        if not es_valida:
             print("La frase debe contener más de dos palabras.")
-            continue
         else:
-            frases.append(frase)
+            frases.append((num_caracteres, num_letras))
 
-    for frase in frases:
-        num_caracteres, num_letras = contar_letras_y_caracteres(frase)
+    for num_caracteres, num_letras in frases:
         print(f"De {num_caracteres} caracteres {num_letras} son letras")
-
-
-
