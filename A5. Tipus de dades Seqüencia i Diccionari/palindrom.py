@@ -8,14 +8,14 @@ for x in palabra:
     if x == " ":
         devnull.append(devnull)
     else:
-        sinEspaciosON += x.lower()
+        sinEspaciosON += x
 
 for x in palabra:
     if x in ACENTOS:
         palabra.replace(x, VOWELS[ACENTOS.index(x)] )
 print(palabra)
 for x in sinEspaciosON[::-1]:
-    sinEspaciosRV += x.lower()
+    sinEspaciosRV += x
 
 if sinEspaciosON == sinEspaciosRV:
     print("Es un palindromo")

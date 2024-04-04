@@ -13,7 +13,7 @@ def validar_frase(frase):
     return len(palabras)
 
 
-def calcularLletres():
+def calcular_letras():
     frases = []
     seguir = True
     while seguir:
@@ -30,4 +30,4 @@ def calcularLletres():
         print(f"De {num_caracteres} caracteres {num_letras} son letras")
 
 
-calcularLletres()
+calcular_letras()
