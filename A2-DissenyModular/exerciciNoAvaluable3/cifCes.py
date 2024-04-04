@@ -1,3 +1,11 @@
+"""
+   Izan Arnáiz Gallego
+   ITB Institut Tecnològic de Barcelona
+   ASIXc M03 UF2 A2 Mòduls i Fitxers
+   04/04/2024
+"""
+
+
 def obtener_entrada():
     entrada = input("")
     partes = entrada.split(maxsplit=1)  # Dividir la entrada en dos partes: desplazamiento y texto
@@ -39,6 +47,3 @@ def principal():
         desplazamiento = int(desplazamiento)
         texto_cifrado = cifrado_cesar(texto, desplazamiento)
         print(texto_cifrado)
-
-
-principal()
