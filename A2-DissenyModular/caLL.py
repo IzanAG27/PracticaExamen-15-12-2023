@@ -37,4 +37,4 @@ def calcular_letras():
         print(f"De {num_caracteres} caracteres {num_letras} son letras")
 
 
-calcular_letras()
+

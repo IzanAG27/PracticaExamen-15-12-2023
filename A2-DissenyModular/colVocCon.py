@@ -56,7 +56,7 @@ def colorear_texto(texto):
     return ''.join(colorear_caracter(c) for c in texto)
 
 
-def principal():
+def mostrar_texto_pintado():
     texto = obtener_entrada()
     if contiene_letras(texto):
         texto_coloreado = colorear_texto(texto)

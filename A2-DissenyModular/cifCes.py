@@ -40,10 +40,10 @@ def cifrado_cesar(texto, desplazamiento):
     return resultado
 
 
-def principal():
+def cifrar_texto_con_cesar():
     partes = obtener_entrada()
     if validar_entrada(partes):
         desplazamiento, texto = partes
         desplazamiento = int(desplazamiento)
         texto_cifrado = cifrado_cesar(texto, desplazamiento)
-        print(texto_cifrado)
+        print(texto_cifrado,"\n")

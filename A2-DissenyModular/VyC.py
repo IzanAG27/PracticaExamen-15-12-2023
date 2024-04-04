@@ -42,3 +42,5 @@ def calcular_letras():
             for letra, datos in letras.items():
                 print(
                     f"{letra}         {datos['cantidad']}            {', '.join(map(str, datos['posiciones']))}")
+            seguir = False  # Termina el bucle después de imprimir la tabla
+    print("\n")  # Imprime una línea en blanco después de la tabla
