@@ -46,4 +46,4 @@ def cifrar_texto_con_cesar():
         desplazamiento, texto = partes
         desplazamiento = int(desplazamiento)
         texto_cifrado = cifrado_cesar(texto, desplazamiento)
-        print(texto_cifrado,"\n")
+        print(texto_cifrado, "\n")

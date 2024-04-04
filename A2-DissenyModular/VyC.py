@@ -10,7 +10,7 @@ def contar_vocales_y_consonantes(frase):
     vocales = 'aeiou'
     letras = {}
     for i, letra in enumerate(frase.lower(), start=1):
-        if letra.isalpha():
+        if letra:
             if letra in vocales:
                 tipo = 'vocal'
             else:
@@ -28,19 +28,26 @@ def validar_frase(frase):
     return len(palabras)
 
 
+def obtener_frase():
+    return input("")
+
+
+def imprimir_resultado(letras):
+    print("Lletra    Quantitat    Posició")
+    for letra, datos in letras.items():
+        print(f"{letra}         {datos['cantidad']}            {', '.join(map(str, datos['posiciones']))}")
+
+
 def calcular_letras():
     seguir = True
     while seguir:
-        frase = input("")
+        frase = obtener_frase()
         if frase == "\\q":
             seguir = False
         elif not validar_frase(frase):
             print("La frase debe contener más de dos palabras.")
         else:
             letras = contar_vocales_y_consonantes(frase)
-            print("Lletra    Quantitat    Posició")
-            for letra, datos in letras.items():
-                print(
-                    f"{letra}         {datos['cantidad']}            {', '.join(map(str, datos['posiciones']))}")
-            seguir = False  # Termina el bucle después de imprimir la tabla
-    print("\n")  # Imprime una línea en blanco después de la tabla
+            imprimir_resultado(letras)
+            seguir = False
+    print("\n")
