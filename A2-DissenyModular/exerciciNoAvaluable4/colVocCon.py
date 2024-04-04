@@ -1,3 +1,9 @@
+"""
+   Izan Arnáiz Gallego
+   ITB Institut Tecnològic de Barcelona
+   ASIXc M03 UF2 A2 Mòduls i Fitxers
+   04/04/2024
+"""
 from SystemColors import *
 
 

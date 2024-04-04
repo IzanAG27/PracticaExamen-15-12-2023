@@ -1,7 +1,7 @@
 """
-   IAG Izan Arnáiz Gallego
+   Izan Arnáiz Gallego
    ITB Institut Tecnològic de Barcelona
-   ASIXc M03 UF2 A2 Mòduls i Paquets
+   ASIXc M03 UF2 A2
    04/04/2024
 
    EXEMPLE: System Colors
