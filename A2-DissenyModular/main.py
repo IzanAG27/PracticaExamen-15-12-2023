@@ -18,18 +18,18 @@ def main():
 
         option = input("Escoge una opción: ")
         if option == '1':
-            caLL.calcular_letras()
+            SigPunPos.calcularLetras()
         elif option == '2':
-            VyC.calcular_letras()
+            SigPunQua.calcular_letras()
         elif option == '3':
-            cifCes.cifrar_texto_con_cesar()
+            cifCes.cifrarConCesar()
         elif option == '4':
-            colVocCon.mostrar_texto_pintado()
+            colVocCon.mostrarTextoPintado()
         elif option == '5':
-            caLL.calcular_letras()
-            VyC.calcular_letras()
-            cifCes.cifrar_texto_con_cesar()
-            colVocCon.mostrar_texto_pintado()
+            SigPunPos.calcular_letras()
+            SigPunQua.calcular_letras()
+            cifCes.cifrarConCesar()
+            colVocCon.mostrar_TextoPintado()
         elif option == '6':
             print("Finalizando programa...")
             time.sleep(2)

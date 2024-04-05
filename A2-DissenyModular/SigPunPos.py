@@ -6,7 +6,7 @@
 """
 
 
-def procesar_frase(frase):
+def procesarFrase(frase):
     vocales = 'aeiou'
     letras = {}
     for i, letra in enumerate(frase.lower(), start=1):
@@ -25,16 +25,16 @@ def procesar_frase(frase):
     return letras, es_valida
 
 
-def calcular_letras():
+def calcularLetras():
     frase = input("")
-    letras, es_valida = procesar_frase(frase)
+    letras, es_valida = procesarFrase(frase)
     if not es_valida:
         print("La frase debe contener más de dos palabras.")
     else:
-        imprimir_resultado(letras)
+        imprimirResultado()
 
 
-def imprimir_resultado(letras):
+def imprimirResultado(letras):
     print("Lletra    Quantitat    Posició")
     for letra, datos in letras.items():
         print(f"{letra}         {datos['cantidad']}            {', '.join(map(str, datos['posiciones']))}")

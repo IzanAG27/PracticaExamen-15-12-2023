@@ -6,13 +6,13 @@
 """
 
 
-def obtener_entrada():
+def obtenerEntrada():
     entrada = input("")
     partes = entrada.split(maxsplit=1)
     return partes
 
 
-def validar_entrada(partes):
+def validarEntrada(partes):
     if len(partes) != 2:
         print("Error: Solo debes proporcionar una clave de desplazamiento y una frase, separados por un espacio.")
         return False
@@ -28,7 +28,7 @@ def validar_entrada(partes):
     return True
 
 
-def cifrado_cesar(texto, desplazamiento):
+def cifradoCesar(texto, desplazamiento):
     resultado = ""
     for caracter in texto:
         if caracter.isalpha():
@@ -40,10 +40,10 @@ def cifrado_cesar(texto, desplazamiento):
     return resultado
 
 
-def cifrar_texto_con_cesar():
-    partes = obtener_entrada()
-    if validar_entrada(partes):
+def cifrarConCesar():
+    partes = obtenerEntrada()
+    if validarEntrada(partes):
         desplazamiento, texto = partes
         desplazamiento = int(desplazamiento)
-        texto_cifrado = cifrado_cesar(texto, desplazamiento)
+        texto_cifrado = cifradoCesar(texto, desplazamiento)
         print(texto_cifrado, "\n")

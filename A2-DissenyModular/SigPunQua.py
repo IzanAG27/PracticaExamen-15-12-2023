@@ -7,7 +7,7 @@
 import re
 
 
-def procesar_frase(frase):
+def procesarFrase(frase):
     num_caracteres = len(frase.replace(" ", ""))
     num_letras = len(re.findall(r'[a-zA-Z]', frase))
     palabras = frase.split()
@@ -15,7 +15,7 @@ def procesar_frase(frase):
     return num_caracteres, num_letras, es_valida
 
 
-def calcular_letras():
+def calcularLetras():
     frases = []
     comprobar = True
     while comprobar:
@@ -23,7 +23,7 @@ def calcular_letras():
         if frase == "\\q":
             comprobar = False
         else:
-            num_caracteres, num_letras, es_valida = procesar_frase(frase)
+            num_caracteres, num_letras, es_valida = procesarFrase(frase)
             if not es_valida:
                 print("La frase debe contener más de dos palabras.")
             else:
