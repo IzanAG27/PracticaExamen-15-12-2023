@@ -1,7 +1,7 @@
 import time
 
-import caLL
-import VyC
+import SigPunQua
+import SigPunPos
 import cifCes
 import colVocCon
 from time import sleep
