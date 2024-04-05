@@ -31,7 +31,7 @@ def calcularLetras():
     if not es_valida:
         print("La frase debe contener más de dos palabras.")
     else:
-        imprimirResultado()
+        imprimirResultado(letras)
 
 
 def imprimirResultado(letras):
