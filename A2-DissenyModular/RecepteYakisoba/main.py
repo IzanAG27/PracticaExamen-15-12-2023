@@ -3,7 +3,6 @@ import SigPunQua
 import SigPunPos
 import cifCes
 import colVocCon
-from time import sleep
 
 
 def main():
