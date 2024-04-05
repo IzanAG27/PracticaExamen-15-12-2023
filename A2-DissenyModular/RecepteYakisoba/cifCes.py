@@ -16,10 +16,9 @@ def validarEntrada(partes):
     if len(partes) != 2:
         print("Error: Solo debes proporcionar una clave de desplazamiento y una frase, separados por un espacio.")
         return False
-    desplazamiento, texto = partes
-    try:
-        desplazamiento = int(desplazamiento)
-    except ValueError:
+    desplazamiento = partes[0]
+    texto = partes[1]
+    if not desplazamiento.isdigit():
         print("Error: La clave de desplazamiento debe ser un número entero.")
         return False
     if texto.replace(' ', '').isdigit():
@@ -31,9 +30,14 @@ def validarEntrada(partes):
 def cifradoCesar(texto, desplazamiento):
     resultado = ""
     for caracter in texto:
-        if caracter.isalpha():
-            desplazamiento_ascii = ord('a') if caracter.islower() else ord('A')
-            caracter_cifrado = chr((ord(caracter) - desplazamiento_ascii + desplazamiento) % 26 + desplazamiento_ascii)
+        if caracter:
+            if caracter.islower():
+                desplazamiento_ascii = ord('a')
+            else:
+                desplazamiento_ascii = ord('A')
+            codigo_ascii = ord(caracter)
+            nuevo_codigo_ascii = (codigo_ascii - desplazamiento_ascii + desplazamiento) % 26 + desplazamiento_ascii
+            caracter_cifrado = chr(nuevo_codigo_ascii)
             resultado += caracter_cifrado
         else:
             resultado += caracter

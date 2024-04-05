@@ -29,7 +29,10 @@ def obtenerColor(caracter):
 
 
 def colorearCaracter(caracter):
-    color = obtenerColor(caracter) if es_vocal(caracter) else BLACK
+    if es_vocal(caracter):
+        color = obtenerColor(caracter)
+    else:
+        color = BLACK
     return color + caracter + FEND
 
 

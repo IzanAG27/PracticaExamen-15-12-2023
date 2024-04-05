@@ -29,6 +29,8 @@ def calcularLetras():
             else:
                 frases.append((num_caracteres, num_letras))
 
-    if not comprobar:
-        for num_caracteres, num_letras in frases:
+    if comprobar == False:
+        for frase in frases:
+            num_caracteres = frase[0]
+            num_letras = frase[1]
             print(f"De {num_caracteres} caracteres {num_letras} son letras")

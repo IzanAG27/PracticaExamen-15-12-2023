@@ -9,17 +9,19 @@
 def procesarFrase(frase):
     vocales = 'aeiou'
     letras = {}
-    for i, letra in enumerate(frase.lower(), start=1):
+    indice = 1
+    for letra in frase.lower():
         if letra:
             if letra in vocales:
                 tipo = 'vocal'
             else:
                 tipo = 'consonante'
             if letra not in letras:
-                letras[letra] = {'tipo': tipo, 'cantidad': 1, 'posiciones': [i]}
+                letras[letra] = {'tipo': tipo, 'cantidad': 1, 'posiciones': [indice]}
             else:
                 letras[letra]['cantidad'] += 1
-                letras[letra]['posiciones'].append(i)
+                letras[letra]['posiciones'].append(indice)
+        indice += 1
     palabras = frase.split()
     es_valida = len(palabras) > 2
     return letras, es_valida
