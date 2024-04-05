@@ -1,8 +1,10 @@
+import time
+
 import caLL
 import VyC
 import cifCes
 import colVocCon
-
+from time import sleep
 
 def main():
     comprobar = True
@@ -29,6 +31,8 @@ def main():
             cifCes.cifrar_texto_con_cesar()
             colVocCon.mostrar_texto_pintado()
         elif option == '6':
+            print("Finalizando programa...")
+            time.sleep(2)
             comprobar = False
         else:
             print("\nError: Opción no reconocida.")

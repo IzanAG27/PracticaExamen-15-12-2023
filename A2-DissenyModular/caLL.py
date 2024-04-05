@@ -22,11 +22,13 @@ def calcular_letras():
         frase = input("")
         if frase == "\\q":
             comprobar = False
-        num_caracteres, num_letras, es_valida = procesar_frase(frase)
-        if not es_valida:
-            print("La frase debe contener más de dos palabras.")
         else:
-            frases.append((num_caracteres, num_letras))
+            num_caracteres, num_letras, es_valida = procesar_frase(frase)
+            if not es_valida:
+                print("La frase debe contener más de dos palabras.")
+            else:
+                frases.append((num_caracteres, num_letras))
 
-    for num_caracteres, num_letras in frases:
-        print(f"De {num_caracteres} caracteres {num_letras} son letras")
+    if not comprobar:
+        for num_caracteres, num_letras in frases:
+            print(f"De {num_caracteres} caracteres {num_letras} son letras")
