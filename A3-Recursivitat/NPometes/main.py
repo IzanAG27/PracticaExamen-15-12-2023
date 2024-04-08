@@ -24,7 +24,7 @@ def recur_pomes(applesCount):
 
 
 def main():
-    recur_pomes(992)
+    recur_pomes(5)
 
 
 if __name__ == "__main__":
