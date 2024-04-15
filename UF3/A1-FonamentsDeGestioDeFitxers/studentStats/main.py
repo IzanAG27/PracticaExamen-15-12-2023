@@ -30,7 +30,7 @@ def calcular_notas(resultado):
         nota_minima = numeros[0]
         nota_maxima = numeros[-1]
         nota_media = round(sum(numeros) / len(numeros), 1)
-        print(f'Nota mínima: {nota_minima}\nNota máxima: {nota_maxima}\nNota mitjana: {nota_media}')
+        print(f'Nota mínima: {nota_minima}\nNota màxima: {nota_maxima}\nNota mitjana: {nota_media}')
 
 
 directorio = pedir_directorio()
