@@ -33,12 +33,16 @@ def calcular_notas(resultado):
         print(f'Nota mínima: {nota_minima}\nNota màxima: {nota_maxima}\nNota mitjana: {nota_media}')
 
 
-directorio = pedir_directorio()
-if directorio is not None:
-    lineas = recorrer_archivo(directorio)
-    resultado = ordenar_nums(lineas)
-    calcular_notas(resultado)
+def main():
+    directorio = pedir_directorio()
+    if directorio is not None:
+        lineas = recorrer_archivo(directorio)
+        resultado = ordenar_nums(lineas)
+        calcular_notas(resultado)
 
-contenido = pedir_directorio()
-resultado = ordenar_nums(contenido)
-print(resultado)
+    contenido = pedir_directorio()
+    resultado = ordenar_nums(contenido)
+    print(resultado)
+
+if __name__ == "__main__":
+    main()
