@@ -1,10 +1,11 @@
 import os
+import os
 
 
 def pedir_directorio():
-    fitxer = input("")
+    fitxer = input("Please enter the file path: ")
     if not os.path.exists(fitxer):
-        print("Introduce un archivo válido")
+        print("Este archivo no existe")
     else:
         return fitxer
 
@@ -43,6 +44,7 @@ def main():
     contenido = pedir_directorio()
     resultado = ordenar_nums(contenido)
     print(resultado)
+
 
 if __name__ == "__main__":
     main()
