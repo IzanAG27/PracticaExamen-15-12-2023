@@ -29,7 +29,7 @@ def calcular_notas(resultado):
         numeros = list(map(int, lineas[i].split()))
         nota_minima = numeros[0]
         nota_maxima = numeros[-1]
-        nota_media = sum(numeros) / len(numeros)
+        nota_media = round(sum(numeros) / len(numeros), 1)
         print(f'Nota mínima: {nota_minima}\nNota máxima: {nota_maxima}\nNota mitjana: {nota_media}')
 
 
