@@ -17,20 +17,21 @@ def recorrer_archivo(directorio):
 
 def ordenar_nums(lineas):
     for i in range(len(lineas)):
-        numbers = list(map(int, lineas[i].split()))
-        numbers.sort()
-        lineas[i] = ' '.join(map(str, numbers))
+        numeros = list(map(int, lineas[i].split()))
+        numeros.sort()
+        lineas[i] = ' '.join(map(str, numeros))
     return '\n'.join(lineas)
 
 
 def calcular_notas(resultado):
     lineas = resultado.split('\n')
     for i in range(len(lineas)):
-        numbers = list(map(int, lineas[i].split()))
-        nota_minima = min(numbers)
-        nota_maxima = max(numbers)
-        nota_media = sum(numbers) / len(numbers)
+        numeros = list(map(int, lineas[i].split()))
+        nota_minima = numeros[0]
+        nota_maxima = numeros[-1]
+        nota_media = sum(numeros) / len(numeros)
         print(f'Nota mínima: {nota_minima}\nNota máxima: {nota_maxima}\nNota mitjana: {nota_media}')
+
 
 directorio = pedir_directorio()
 if directorio is not None:
@@ -41,4 +42,3 @@ if directorio is not None:
 contenido = pedir_directorio()
 resultado = ordenar_nums(contenido)
 print(resultado)
-
