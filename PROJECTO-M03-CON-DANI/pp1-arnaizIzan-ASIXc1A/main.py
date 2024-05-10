@@ -9,6 +9,7 @@
 """
 
 # region imports
+from kernel import *
 # endregion
 
 # region main
