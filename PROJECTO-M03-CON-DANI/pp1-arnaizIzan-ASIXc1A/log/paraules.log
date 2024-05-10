@@ -1,0 +1,48 @@
+2024-05-10 12:41:43,294 - ERROR - El directorio de entrada ./entrada no se encuentra
+2024-05-10 12:42:05,044 - ERROR - El directorio de salida ./entrada no se encuentra
+2024-05-10 12:42:36,843 - ERROR - El directorio de salida ./sortida no se encuentra
+2024-05-10 12:42:37,314 - ERROR - El directorio de salida ./sortida no se encuentra
+2024-05-10 12:42:54,570 - INFO - Comenzando la lectura del archivo ./entrada/paraules.txt...
+2024-05-10 12:42:54,571 - INFO - Archivo ./entrada/paraules.txt leido correctamente
+2024-05-10 12:42:54,572 - INFO - 495 palabras escritas en ./sortida/paraules-a.txt
+2024-05-10 12:42:54,572 - INFO - 137 palabras escritas en ./sortida/paraules-e.txt
+2024-05-10 12:42:54,572 - INFO - 116 palabras escritas en ./sortida/paraules-i.txt
+2024-05-10 12:42:54,572 - INFO - 32 palabras escritas en ./sortida/paraules-o.txt
+2024-05-10 12:42:54,572 - INFO - 4 palabras escritas en ./sortida/paraules-u.txt
+2024-05-10 12:42:54,572 - INFO - Se va a comenzar a escribir el fichero ./sortida/paraulesQuantitat.txt.
+2024-05-10 12:42:54,608 - INFO - Fichero ./sortida/paraulesQuantitat.txt escrito correctamente.
+2024-05-10 12:42:54,608 - INFO - La ejecucion del programa ha sido un éxito.
+2024-05-10 12:42:54,608 - INFO - -------------------------------------------------------------------------
+2024-05-10 12:42:55,001 - INFO - Comenzando la lectura del archivo ./entrada/paraules.txt...
+2024-05-10 12:42:55,001 - INFO - Archivo ./entrada/paraules.txt leido correctamente
+2024-05-10 12:42:55,002 - INFO - 495 palabras escritas en ./sortida/paraules-a.txt
+2024-05-10 12:42:55,002 - INFO - 137 palabras escritas en ./sortida/paraules-e.txt
+2024-05-10 12:42:55,002 - INFO - 116 palabras escritas en ./sortida/paraules-i.txt
+2024-05-10 12:42:55,002 - INFO - 32 palabras escritas en ./sortida/paraules-o.txt
+2024-05-10 12:42:55,002 - INFO - 4 palabras escritas en ./sortida/paraules-u.txt
+2024-05-10 12:42:55,002 - INFO - Se va a comenzar a escribir el fichero ./sortida/paraulesQuantitat.txt.
+2024-05-10 12:42:55,040 - INFO - Fichero ./sortida/paraulesQuantitat.txt escrito correctamente.
+2024-05-10 12:42:55,040 - INFO - La ejecucion del programa ha sido un éxito.
+2024-05-10 12:42:55,040 - INFO - -------------------------------------------------------------------------
+2024-05-10 12:42:55,504 - INFO - Comenzando la lectura del archivo ./entrada/paraules.txt...
+2024-05-10 12:42:55,505 - INFO - Archivo ./entrada/paraules.txt leido correctamente
+2024-05-10 12:42:55,506 - INFO - 495 palabras escritas en ./sortida/paraules-a.txt
+2024-05-10 12:42:55,506 - INFO - 137 palabras escritas en ./sortida/paraules-e.txt
+2024-05-10 12:42:55,506 - INFO - 116 palabras escritas en ./sortida/paraules-i.txt
+2024-05-10 12:42:55,507 - INFO - 32 palabras escritas en ./sortida/paraules-o.txt
+2024-05-10 12:42:55,507 - INFO - 4 palabras escritas en ./sortida/paraules-u.txt
+2024-05-10 12:42:55,507 - INFO - Se va a comenzar a escribir el fichero ./sortida/paraulesQuantitat.txt.
+2024-05-10 12:42:55,548 - INFO - Fichero ./sortida/paraulesQuantitat.txt escrito correctamente.
+2024-05-10 12:42:55,548 - INFO - La ejecucion del programa ha sido un éxito.
+2024-05-10 12:42:55,548 - INFO - -------------------------------------------------------------------------
+2024-05-10 12:42:55,898 - INFO - Comenzando la lectura del archivo ./entrada/paraules.txt...
+2024-05-10 12:42:55,899 - INFO - Archivo ./entrada/paraules.txt leido correctamente
+2024-05-10 12:42:55,901 - INFO - 495 palabras escritas en ./sortida/paraules-a.txt
+2024-05-10 12:42:55,901 - INFO - 137 palabras escritas en ./sortida/paraules-e.txt
+2024-05-10 12:42:55,901 - INFO - 116 palabras escritas en ./sortida/paraules-i.txt
+2024-05-10 12:42:55,901 - INFO - 32 palabras escritas en ./sortida/paraules-o.txt
+2024-05-10 12:42:55,901 - INFO - 4 palabras escritas en ./sortida/paraules-u.txt
+2024-05-10 12:42:55,901 - INFO - Se va a comenzar a escribir el fichero ./sortida/paraulesQuantitat.txt.
+2024-05-10 12:42:55,943 - INFO - Fichero ./sortida/paraulesQuantitat.txt escrito correctamente.
+2024-05-10 12:42:55,943 - INFO - La ejecucion del programa ha sido un éxito.
+2024-05-10 12:42:55,943 - INFO - -------------------------------------------------------------------------
