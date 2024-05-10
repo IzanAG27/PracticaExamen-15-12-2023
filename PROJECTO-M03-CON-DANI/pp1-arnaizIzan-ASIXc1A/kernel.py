@@ -38,9 +38,11 @@ logging.basicConfig(
 
 # region funciones
 def leer_archivo():
+    # Si no existe INPUT_DIR (error en log)
     if not os.path.exists(INPUT_DIR):
         logging.error(f"El directorio de entrada {INPUT_DIR} no existe")
         return None
+
     try:
         with open(INPUT_FILE, mode="r", encoding="utf-8") as f:
             file = f.read() # Que quieres leer
@@ -52,9 +54,11 @@ def leer_archivo():
 
 
 def escribir_archivo(OUTPUT_FILE, words):
+    # Si no existe OUTPUT_DIR (error en log)
     if not os.path.exists(OUTPUT_DIR):
         logging.error(f"El directorio de salida {OUTPUT_DIR} no existe")
         return
+
     try:
         with open(OUTPUT_FILE, 'w', encoding="utf-8") as f:
             f.write("hola")
