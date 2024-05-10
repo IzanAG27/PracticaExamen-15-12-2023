@@ -1,0 +1,952 @@
+2024-05-03 11:42:41,471 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:42:41,473 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:42:43,496 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:42:43,497 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:42:43,497 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:42:43,498 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:42:45,512 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:42:45,513 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:42:45,513 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:42:45,515 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:42:47,560 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:42:47,560 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:42:47,560 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:42:47,561 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:42:49,575 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:42:49,575 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:42:49,576 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:42:49,577 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:42:51,609 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:42:51,610 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:42:51,610 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:42:51,610 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:42:53,613 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:42:53,614 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:42:53,614 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:42:53,614 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:42:55,630 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:42:55,631 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:42:55,631 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:42:55,632 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:42:57,648 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:42:57,649 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:42:57,649 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:43:44,987 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:43:44,989 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:43:47,012 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:43:47,013 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:43:47,013 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:43:47,013 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:43:49,026 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:43:49,027 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:43:49,027 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:43:49,029 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:43:51,080 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:43:51,080 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:43:51,080 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:43:51,081 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:43:53,095 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:43:53,095 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:43:53,095 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:43:53,097 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:43:55,129 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:43:55,130 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:43:55,130 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:43:55,130 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:43:57,133 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:43:57,134 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:43:57,134 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:43:57,135 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:43:59,150 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:43:59,151 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:43:59,151 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:43:59,152 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:44:01,168 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:44:01,168 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:44:01,169 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:44:01,173 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:44:03,326 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:44:03,327 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:44:58,403 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:44:58,405 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:45:00,654 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:45:00,657 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:45:00,657 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:45:00,658 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:45:02,816 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:45:02,818 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:45:02,819 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:45:02,820 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:45:05,360 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:45:05,366 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:45:05,366 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:45:05,367 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:45:07,553 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:45:07,555 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:45:07,555 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:45:07,557 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:45:10,011 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:45:10,016 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:45:10,016 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:45:10,016 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:45:12,038 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:45:12,039 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:45:12,039 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:45:12,039 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:45:14,330 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:45:14,334 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:45:14,334 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:45:14,336 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:45:16,635 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:45:16,638 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:45:16,638 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:45:16,642 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:45:19,590 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:45:19,605 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:55:35,983 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:55:35,984 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:55:38,243 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:55:38,247 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:55:38,247 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:55:38,248 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:55:40,405 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:55:40,407 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:55:40,408 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:55:40,409 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:55:42,950 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:55:42,957 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:55:42,957 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:55:42,958 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:55:45,144 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:55:45,146 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:55:45,146 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:55:45,148 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:55:47,563 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:55:47,568 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:55:47,569 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:55:47,569 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:55:49,591 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:55:49,592 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:55:49,592 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:55:49,592 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:55:51,795 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:55:51,798 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:55:51,798 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:55:51,799 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:55:54,026 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:55:54,029 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:55:54,029 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:55:54,032 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:55:56,902 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:55:56,920 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:00:51,445 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:00:51,446 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:00:53,693 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:00:53,696 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:00:53,696 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:00:53,697 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:00:55,853 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:00:55,855 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:00:55,855 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:00:55,857 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:00:58,391 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:00:58,397 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:00:58,397 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:00:58,398 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:01:00,576 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:01:00,578 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:01:00,578 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:01:00,579 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:01:03,004 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:01:03,009 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:01:03,009 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:01:03,009 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:01:05,031 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:01:05,032 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:01:05,032 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:01:05,033 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:01:07,244 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:01:07,247 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:01:07,247 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:01:07,248 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:01:09,502 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:01:09,506 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:01:09,506 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:01:52,659 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:01:52,661 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:01:54,923 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:01:54,926 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:01:54,927 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:01:54,928 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:01:57,084 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:01:57,086 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:01:57,086 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:01:57,088 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:01:59,645 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:01:59,652 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:01:59,652 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:01:59,653 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:02:01,876 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:02:01,878 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:02:01,879 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:02:01,881 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:02:04,300 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:02:04,305 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:02:04,305 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:02:04,305 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:02:06,327 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:02:06,328 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:02:06,328 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:02:06,329 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:02:08,535 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:02:08,538 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:02:08,538 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:02:08,539 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:02:10,769 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:02:10,771 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:02:10,772 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:02:10,772 - root - ERROR - El archivo ./entrada/x.txt ha sido cargado con una codificación incorrecta.
+2024-05-03 12:03:03,557 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:03:03,558 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:03:05,806 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:03:05,809 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:03:05,809 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:03:05,810 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:03:08,044 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:03:08,046 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:03:08,046 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:03:08,048 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:03:10,582 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:03:10,588 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:03:10,588 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:03:10,588 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:03:12,766 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:03:12,768 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:03:12,768 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:03:12,770 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:03:15,185 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:03:15,190 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:03:15,190 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:03:15,190 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:03:17,213 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:03:17,213 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:03:17,213 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:03:17,214 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:03:19,420 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:03:19,422 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:03:19,422 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:03:19,423 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:03:21,650 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:03:21,653 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:03:21,653 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:03:21,654 - root - ERROR - El archivo ./entrada/x.txt ha sido cargado con una codificación incorrecta.
+2024-05-03 11:57:57,554 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:57:57,554 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:57:59,574 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:57:59,574 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:57:59,574 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:57:59,575 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:58:01,861 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:58:01,862 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:58:01,862 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:58:01,863 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:58:04,437 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:58:04,440 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:58:04,440 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:58:04,441 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:58:06,956 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:58:06,957 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:58:06,957 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:58:06,957 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:58:09,851 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:58:09,858 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:58:09,859 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:58:09,859 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:58:12,211 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:58:12,212 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:58:12,212 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:58:12,212 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:58:14,389 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:58:14,390 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:58:14,390 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:58:14,390 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:58:16,599 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:58:16,599 - root - INFO - Archivo escrito correctamente.
+2024-05-03 11:58:16,600 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 11:58:16,600 - root - INFO - Archivo leído correctamente.
+2024-05-03 11:58:18,839 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 11:58:18,840 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:01:29,030 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:01:29,030 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:01:31,053 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:01:31,053 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:01:31,053 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:01:31,054 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:01:33,309 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:01:33,309 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:01:33,310 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:01:33,311 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:01:35,853 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:01:35,855 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:01:35,855 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:01:35,856 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:01:38,313 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:01:38,315 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:01:38,315 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:01:38,315 - root - ERROR - El archivo no está en formato UTF-8 y no puede ser leído.
+2024-05-03 12:01:38,321 - root - ERROR - Error: No se ha podido escribir el fichero, intentalo nuevamente...
+2024-05-03 12:01:38,321 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:01:38,321 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:01:40,572 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:01:40,573 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:01:40,573 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:01:40,573 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:01:42,758 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:01:42,764 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:01:42,764 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:01:42,765 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:01:44,976 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:01:44,977 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:01:44,977 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:01:44,977 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:01:47,220 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:01:47,221 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:05:35,874 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:05:35,876 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:05:38,121 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:05:38,124 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:05:38,124 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:05:38,125 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:05:40,282 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:05:40,284 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:05:40,284 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:05:40,286 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:05:42,841 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:05:42,847 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:05:42,847 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:05:42,848 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:05:45,026 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:05:45,029 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:05:45,029 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:05:45,030 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:05:47,465 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:05:47,469 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:05:47,469 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:05:47,470 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:05:49,492 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:05:49,492 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:05:49,493 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:05:49,493 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:05:51,723 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:05:51,726 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:05:51,726 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:05:51,727 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:05:53,955 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:05:53,958 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:05:53,958 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:05:53,959 - root - ERROR - El archivo no está en formato UTF-8 y no puede ser leído.
+2024-05-03 12:05:53,961 - root - ERROR - Error: No se ha podido escribir el fichero, intentalo nuevamente...
+2024-05-03 12:12:28,978 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:12:28,980 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:12:31,106 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/17 LEYES DEL TRABAJO EN EQUIPO.txt: 2.13 segundos
+2024-05-03 12:12:31,226 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:12:31,229 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:12:31,229 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:12:31,230 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:12:33,309 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/25 MANERAS DE GANARSE A LA GENTE - .txt: 2.08 segundos
+2024-05-03 12:12:33,386 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:12:33,388 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:12:33,388 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:12:33,390 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:12:35,663 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/Abe Shana - La última sirena.txt: 2.27 segundos
+2024-05-03 12:12:35,927 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:12:35,934 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:12:35,934 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:12:35,935 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:12:38,108 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt: 2.17 segundos
+2024-05-03 12:12:38,220 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:12:38,223 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:12:38,223 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:12:38,224 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:12:40,438 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/El Oro Y La Ceniza - Abecassis Eliette .txt: 2.22 segundos
+2024-05-03 12:12:40,648 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:12:40,653 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:12:40,653 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:12:40,653 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:12:42,663 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/paraules.txt: 2.01 segundos
+2024-05-03 12:12:42,676 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:12:42,676 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:12:42,676 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:12:42,677 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:12:44,797 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt: 2.12 segundos
+2024-05-03 12:12:44,903 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:12:44,906 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:12:44,906 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:12:44,907 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:12:47,022 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/VIVE TU SUEÑO - JOHN MAXWELL.txt: 2.12 segundos
+2024-05-03 12:12:47,136 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:12:47,139 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:12:47,139 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:12:47,140 - root - ERROR - El archivo no está en formato UTF-8 y no puede ser leído.
+2024-05-03 12:12:47,140 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/x.txt: 0.00 segundos
+2024-05-03 12:12:47,142 - root - ERROR - Error: No se ha podido escribir el fichero, intentalo nuevamente...
+2024-05-03 12:16:44,388 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:16:44,390 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:16:46,526 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/17 LEYES DEL TRABAJO EN EQUIPO.txt: 2.14 segundos
+2024-05-03 12:16:46,796 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:16:46,799 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:16:46,799 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:16:46,801 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:16:48,882 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/25 MANERAS DE GANARSE A LA GENTE - .txt: 2.08 segundos
+2024-05-03 12:16:48,958 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:16:48,960 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:16:48,960 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:16:48,962 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:16:51,233 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/Abe Shana - La última sirena.txt: 2.27 segundos
+2024-05-03 12:16:51,496 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:16:51,502 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:16:51,502 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:16:51,503 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:16:53,590 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt: 2.09 segundos
+2024-05-03 12:16:53,680 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:16:53,682 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:16:53,682 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:16:53,684 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:16:55,893 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/El Oro Y La Ceniza - Abecassis Eliette .txt: 2.21 segundos
+2024-05-03 12:16:56,103 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:16:56,108 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:16:56,108 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:16:56,108 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:16:58,117 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/paraules.txt: 2.01 segundos
+2024-05-03 12:16:58,129 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:16:58,130 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:16:58,130 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:16:58,130 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:17:00,235 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt: 2.11 segundos
+2024-05-03 12:17:00,339 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:17:00,342 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:17:00,342 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:17:00,343 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:17:02,459 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/VIVE TU SUEÑO - JOHN MAXWELL.txt: 2.12 segundos
+2024-05-03 12:17:02,576 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:17:02,579 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:17:02,579 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:17:02,580 - root - ERROR - El archivo no está en formato UTF-8 y no puede ser leído.
+2024-05-03 12:17:02,580 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/x.txt: 0.00 segundos
+2024-05-03 12:17:02,583 - root - ERROR - Error: No se ha podido escribir el fichero, intentalo nuevamente...
+2024-05-03 12:19:08,188 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:19:08,190 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:19:10,319 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/17 LEYES DEL TRABAJO EN EQUIPO.txt: 2.13 segundos
+2024-05-03 12:19:10,442 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:19:10,446 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:19:10,446 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:19:10,447 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:19:12,527 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/25 MANERAS DE GANARSE A LA GENTE - .txt: 2.08 segundos
+2024-05-03 12:19:12,605 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:19:12,607 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:19:12,607 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:19:12,609 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:19:14,885 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/Abe Shana - La última sirena.txt: 2.28 segundos
+2024-05-03 12:19:15,149 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:19:15,155 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:19:15,155 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:19:15,156 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:19:17,264 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt: 2.11 segundos
+2024-05-03 12:19:17,364 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:19:17,366 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:19:17,366 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:19:17,368 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:19:19,645 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/El Oro Y La Ceniza - Abecassis Eliette .txt: 2.28 segundos
+2024-05-03 12:19:19,853 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:19:19,858 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:19:19,858 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:19:19,858 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:19:21,869 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/paraules.txt: 2.01 segundos
+2024-05-03 12:19:21,883 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:19:21,884 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:19:21,884 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:19:21,884 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:19:23,988 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt: 2.10 segundos
+2024-05-03 12:19:24,089 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:19:24,092 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:19:24,092 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:19:24,093 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:19:26,211 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/VIVE TU SUEÑO - JOHN MAXWELL.txt: 2.12 segundos
+2024-05-03 12:19:26,324 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:19:26,327 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:19:26,327 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:19:26,328 - root - ERROR - El archivo no está en formato UTF-8 y no puede ser leído.
+2024-05-03 12:19:26,328 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/x.txt: 0.00 segundos
+2024-05-03 12:19:26,330 - root - ERROR - Error: No se ha podido escribir el fichero, intentalo nuevamente...
+2024-05-03 12:19:26,331 - root - INFO - Tiempo total transcurrido en procesar todos los archivos: 18.14 segundos
+2024-05-03 12:23:27,263 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:23:27,265 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:23:29,395 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/17 LEYES DEL TRABAJO EN EQUIPO.txt: 2.13 segundos
+2024-05-03 12:23:29,518 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:23:29,520 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:23:29,520 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:23:29,521 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:23:31,601 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/25 MANERAS DE GANARSE A LA GENTE - .txt: 2.08 segundos
+2024-05-03 12:23:31,678 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:23:31,680 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:23:31,680 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:23:31,682 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:23:33,957 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/Abe Shana - La última sirena.txt: 2.28 segundos
+2024-05-03 12:23:34,224 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:23:34,230 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:23:34,230 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:23:34,231 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:23:36,319 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt: 2.09 segundos
+2024-05-03 12:23:36,409 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:23:36,411 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:23:36,411 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:23:36,412 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:23:38,623 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/El Oro Y La Ceniza - Abecassis Eliette .txt: 2.21 segundos
+2024-05-03 12:23:38,830 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:23:38,835 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:23:38,835 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:23:38,836 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:23:40,845 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/paraules.txt: 2.01 segundos
+2024-05-03 12:23:40,858 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:23:40,859 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:23:40,859 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:23:40,859 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:23:42,965 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt: 2.11 segundos
+2024-05-03 12:23:43,066 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:23:43,069 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:23:43,069 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:23:43,070 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:23:45,187 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/VIVE TU SUEÑO - JOHN MAXWELL.txt: 2.12 segundos
+2024-05-03 12:23:45,302 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:23:45,304 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:23:45,304 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:23:45,305 - root - ERROR - El archivo no está en formato UTF-8 y no puede ser leído.
+2024-05-03 12:23:45,305 - root - INFO - Tiempo transcurrido en procesar el archivo ./entrada/x.txt: 0.00 segundos
+2024-05-03 12:23:45,308 - root - ERROR - Error: No se ha podido escribir el fichero, intentalo nuevamente...
+2024-05-03 12:23:45,308 - root - INFO - Tiempo total transcurrido en procesar todos los archivos: 18.04 segundos
+2024-05-03 12:24:13,066 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:24:13,067 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:24:15,329 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:24:15,332 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:24:15,332 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:24:15,333 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:24:17,494 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:24:17,496 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:24:17,496 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:24:17,498 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:24:20,092 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:24:20,098 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:24:20,098 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:24:20,099 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:24:22,280 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:24:22,282 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:24:22,282 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:24:22,284 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:24:24,700 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:24:24,705 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:24:24,705 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:24:24,705 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:24:26,728 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:24:26,729 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:24:26,729 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:24:26,729 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:24:28,936 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:24:28,938 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:24:28,939 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:24:28,940 - root - INFO - Archivo leído correctamente.
+2024-05-03 12:24:31,169 - root - INFO - Comenzando proceso de escritura.
+2024-05-03 12:24:31,172 - root - INFO - Archivo escrito correctamente.
+2024-05-03 12:24:31,172 - root - INFO - Comenzando proceso de lectura.
+2024-05-03 12:24:31,173 - root - ERROR - El archivo no está en formato UTF-8 y no puede ser leído.
+2024-05-03 12:24:31,175 - root - ERROR - Error: No se ha podido escribir el fichero, intentalo nuevamente...
+2024-05-03 12:24:31,175 - root - INFO - Tiempo total transcurrido en procesar todos los archivos: 18.11 segundos
+2024-05-03 12:31:26,625 - root - ERROR - El directorio de entrada no existe.
+2024-05-03 12:32:54,566 - root - ERROR - El directorio de entrada ./entrada no se encuentra
+2024-05-03 12:34:05,541 - root - ERROR - El directorio de entrada ./entrada no se encuentra
+2024-05-03 12:38:34,211 - ERROR - El directorio de entrada ./entrada no se encuentra
+2024-05-03 12:38:52,250 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:38:52,252 - INFO - Archivo leído correctamente.
+2024-05-03 12:38:54,498 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:38:54,501 - INFO - Archivo escrito correctamente.
+2024-05-03 12:38:54,501 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:38:54,502 - INFO - Archivo leído correctamente.
+2024-05-03 12:38:56,658 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:38:56,661 - INFO - Archivo escrito correctamente.
+2024-05-03 12:38:56,661 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:38:56,663 - INFO - Archivo leído correctamente.
+2024-05-03 12:38:59,197 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:38:59,203 - INFO - Archivo escrito correctamente.
+2024-05-03 12:38:59,203 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:38:59,204 - INFO - Archivo leído correctamente.
+2024-05-03 12:39:01,382 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:39:01,385 - INFO - Archivo escrito correctamente.
+2024-05-03 12:39:01,385 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:39:01,387 - INFO - Archivo leído correctamente.
+2024-05-03 12:39:03,801 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:39:03,806 - INFO - Archivo escrito correctamente.
+2024-05-03 12:39:03,806 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:39:03,807 - INFO - Archivo leído correctamente.
+2024-05-03 12:39:05,828 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:39:05,829 - INFO - Archivo escrito correctamente.
+2024-05-03 12:39:05,829 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:39:05,830 - INFO - Archivo leído correctamente.
+2024-05-03 12:39:08,035 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:39:08,038 - INFO - Archivo escrito correctamente.
+2024-05-03 12:39:08,038 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:39:08,039 - INFO - Archivo leído correctamente.
+2024-05-03 12:39:10,267 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:39:10,270 - INFO - Archivo escrito correctamente.
+2024-05-03 12:39:10,270 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:39:10,271 - ERROR - El archivo no está en formato UTF-8 y no puede ser leído.
+2024-05-03 12:39:10,274 - ERROR - Error: No se ha podido escribir el fichero, intentalo nuevamente...
+2024-05-03 12:39:10,274 - INFO - Tiempo total transcurrido en procesar todos los archivos: 18.02 segundos
+2024-05-03 12:40:05,020 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:40:05,021 - INFO - Archivo leído correctamente.
+2024-05-03 12:40:07,277 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:40:07,280 - INFO - Archivo escrito correctamente.
+2024-05-03 12:40:07,280 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:40:07,281 - INFO - Archivo leído correctamente.
+2024-05-03 12:40:09,435 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:40:09,437 - INFO - Archivo escrito correctamente.
+2024-05-03 12:40:09,438 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:40:09,440 - INFO - Archivo leído correctamente.
+2024-05-03 12:40:11,974 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:40:11,981 - INFO - Archivo escrito correctamente.
+2024-05-03 12:40:11,981 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:40:11,982 - INFO - Archivo leído correctamente.
+2024-05-03 12:40:14,161 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:40:14,163 - INFO - Archivo escrito correctamente.
+2024-05-03 12:40:14,163 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:40:14,165 - INFO - Archivo leído correctamente.
+2024-05-03 12:40:16,579 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:40:16,584 - INFO - Archivo escrito correctamente.
+2024-05-03 12:40:16,584 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:40:16,585 - INFO - Archivo leído correctamente.
+2024-05-03 12:40:18,607 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:40:18,608 - INFO - Archivo escrito correctamente.
+2024-05-03 12:40:18,608 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:40:18,608 - INFO - Archivo leído correctamente.
+2024-05-03 12:40:20,812 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:40:20,815 - INFO - Archivo escrito correctamente.
+2024-05-03 12:40:20,815 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:40:20,816 - INFO - Archivo leído correctamente.
+2024-05-03 12:40:23,043 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:40:23,046 - INFO - Archivo escrito correctamente.
+2024-05-03 12:40:23,046 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:40:23,047 - ERROR - El archivo no está en formato UTF-8 y no puede ser leído.
+2024-05-03 12:40:23,050 - ERROR - Error: No se ha podido escribir el fichero, intentalo nuevamente...
+2024-05-03 12:41:48,256 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:41:48,258 - INFO - Archivo leído correctamente.
+2024-05-03 12:41:50,503 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:41:50,507 - INFO - Archivo escrito correctamente.
+2024-05-03 12:41:50,507 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:41:50,508 - INFO - Archivo leído correctamente.
+2024-05-03 12:41:52,662 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:41:52,665 - INFO - Archivo escrito correctamente.
+2024-05-03 12:41:52,665 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:41:52,667 - INFO - Archivo leído correctamente.
+2024-05-03 12:41:55,198 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:41:55,204 - INFO - Archivo escrito correctamente.
+2024-05-03 12:41:55,204 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:41:55,205 - INFO - Archivo leído correctamente.
+2024-05-03 12:41:57,381 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:41:57,383 - INFO - Archivo escrito correctamente.
+2024-05-03 12:41:57,383 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:41:57,385 - INFO - Archivo leído correctamente.
+2024-05-03 12:41:59,798 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:41:59,803 - INFO - Archivo escrito correctamente.
+2024-05-03 12:41:59,803 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:41:59,803 - INFO - Archivo leído correctamente.
+2024-05-03 12:42:01,842 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:42:01,843 - INFO - Archivo escrito correctamente.
+2024-05-03 12:42:01,843 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:42:01,844 - INFO - Archivo leído correctamente.
+2024-05-03 12:42:04,048 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:42:04,051 - INFO - Archivo escrito correctamente.
+2024-05-03 12:42:04,051 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:42:04,052 - INFO - Archivo leído correctamente.
+2024-05-03 12:42:06,280 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:42:06,283 - INFO - Archivo escrito correctamente.
+2024-05-03 12:42:06,283 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:42:06,283 - ERROR - El archivo no está en formato UTF-8 y no puede ser leído.
+2024-05-03 12:42:06,286 - ERROR - Error: No se ha podido escribir el fichero, intentalo nuevamente...
+2024-05-03 12:42:29,738 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:42:29,739 - INFO - Archivo leído correctamente.
+2024-05-03 12:42:31,988 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:42:31,991 - INFO - Archivo escrito correctamente.
+2024-05-03 12:42:31,991 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:42:31,992 - INFO - Archivo leído correctamente.
+2024-05-03 12:42:34,148 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:42:34,150 - INFO - Archivo escrito correctamente.
+2024-05-03 12:42:34,150 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:42:34,152 - INFO - Archivo leído correctamente.
+2024-05-03 12:42:36,692 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:42:36,698 - INFO - Archivo escrito correctamente.
+2024-05-03 12:42:36,698 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:42:36,699 - INFO - Archivo leído correctamente.
+2024-05-03 12:42:38,877 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:42:38,879 - INFO - Archivo escrito correctamente.
+2024-05-03 12:42:38,880 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:42:38,881 - INFO - Archivo leído correctamente.
+2024-05-03 12:42:41,299 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:42:41,304 - INFO - Archivo escrito correctamente.
+2024-05-03 12:42:41,304 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:42:41,304 - INFO - Archivo leído correctamente.
+2024-05-03 12:42:43,325 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:42:43,326 - INFO - Archivo escrito correctamente.
+2024-05-03 12:42:43,326 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:42:43,327 - INFO - Archivo leído correctamente.
+2024-05-03 12:42:45,535 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:42:45,538 - INFO - Archivo escrito correctamente.
+2024-05-03 12:42:45,538 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:42:45,540 - INFO - Archivo leído correctamente.
+2024-05-03 12:42:47,770 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:42:47,773 - INFO - Archivo escrito correctamente.
+2024-05-03 12:42:47,773 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:42:47,774 - ERROR - El archivo no está en formato UTF-8 y no puede ser leído.
+2024-05-03 12:42:47,777 - ERROR - Error: No se ha podido escribir el fichero, intentalo nuevamente...
+2024-05-03 12:45:29,091 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:45:29,093 - INFO - Archivo leído correctamente.
+2024-05-03 12:45:31,340 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:45:31,343 - INFO - Archivo escrito correctamente.
+2024-05-03 12:45:31,343 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:45:31,344 - INFO - Archivo leído correctamente.
+2024-05-03 12:45:33,505 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:45:33,507 - INFO - Archivo escrito correctamente.
+2024-05-03 12:45:33,507 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:45:33,509 - INFO - Archivo leído correctamente.
+2024-05-03 12:45:36,048 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:45:36,053 - INFO - Archivo escrito correctamente.
+2024-05-03 12:45:36,054 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:45:36,054 - INFO - Archivo leído correctamente.
+2024-05-03 12:45:38,244 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:45:38,246 - INFO - Archivo escrito correctamente.
+2024-05-03 12:45:38,246 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:45:38,248 - INFO - Archivo leído correctamente.
+2024-05-03 12:45:40,663 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:45:40,668 - INFO - Archivo escrito correctamente.
+2024-05-03 12:45:40,668 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:45:40,669 - INFO - Archivo leído correctamente.
+2024-05-03 12:45:42,691 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:45:42,692 - INFO - Archivo escrito correctamente.
+2024-05-03 12:45:42,692 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:45:42,692 - INFO - Archivo leído correctamente.
+2024-05-03 12:45:44,897 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:45:44,900 - INFO - Archivo escrito correctamente.
+2024-05-03 12:45:44,900 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:45:44,901 - INFO - Archivo leído correctamente.
+2024-05-03 12:45:47,131 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:45:47,134 - INFO - Archivo escrito correctamente.
+2024-05-03 12:45:47,134 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:45:47,135 - ERROR - El archivo no está en formato UTF-8 y no puede ser leído.
+2024-05-03 12:45:47,138 - ERROR - Error: No se ha podido escribir el fichero, intentalo nuevamente...
+2024-05-03 12:46:28,019 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:46:28,021 - INFO - Archivo leído correctamente.
+2024-05-03 12:46:30,268 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:46:30,271 - INFO - Archivo escrito correctamente.
+2024-05-03 12:46:30,271 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:46:30,272 - INFO - Archivo leído correctamente.
+2024-05-03 12:46:32,428 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:46:32,431 - INFO - Archivo escrito correctamente.
+2024-05-03 12:46:32,431 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:46:32,433 - INFO - Archivo leído correctamente.
+2024-05-03 12:46:34,968 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:46:34,974 - INFO - Archivo escrito correctamente.
+2024-05-03 12:46:34,975 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:46:34,975 - INFO - Archivo leído correctamente.
+2024-05-03 12:46:37,161 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:46:37,164 - INFO - Archivo escrito correctamente.
+2024-05-03 12:46:37,164 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:46:37,166 - INFO - Archivo leído correctamente.
+2024-05-03 12:46:39,581 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:46:39,586 - INFO - Archivo escrito correctamente.
+2024-05-03 12:46:39,586 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:46:39,586 - INFO - Archivo leído correctamente.
+2024-05-03 12:46:41,609 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:46:41,610 - INFO - Archivo escrito correctamente.
+2024-05-03 12:46:41,610 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:46:41,611 - INFO - Archivo leído correctamente.
+2024-05-03 12:46:43,833 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:46:43,836 - INFO - Archivo escrito correctamente.
+2024-05-03 12:46:43,836 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:46:43,837 - INFO - Archivo leído correctamente.
+2024-05-03 12:46:46,064 - INFO - Comenzando proceso de escritura.
+2024-05-03 12:46:46,067 - INFO - Archivo escrito correctamente.
+2024-05-03 12:46:46,067 - INFO - Comenzando proceso de lectura.
+2024-05-03 12:46:46,067 - ERROR - El archivo no está en formato UTF-8 y no puede ser leído.
+2024-05-03 12:46:46,070 - ERROR - Error: No se ha podido escribir el fichero, intentalo nuevamente...
+2024-05-05 18:51:25,357 - INFO - Comenzando proceso de lectura.
+2024-05-05 18:51:25,358 - INFO - Archivo le�do correctamente.
+2024-05-05 18:51:27,518 - INFO - Comenzando proceso de escritura.
+2024-05-05 18:51:27,519 - INFO - Archivo escrito correctamente.
+2024-05-05 18:51:27,520 - INFO - Comenzando proceso de lectura.
+2024-05-05 18:51:27,521 - INFO - Archivo le�do correctamente.
+2024-05-05 18:51:29,619 - INFO - Comenzando proceso de escritura.
+2024-05-05 18:51:29,620 - INFO - Archivo escrito correctamente.
+2024-05-05 18:51:29,620 - INFO - Comenzando proceso de lectura.
+2024-05-05 18:51:29,623 - INFO - Archivo le�do correctamente.
+2024-05-05 18:51:31,977 - INFO - Comenzando proceso de escritura.
+2024-05-05 18:51:31,979 - INFO - Archivo escrito correctamente.
+2024-05-05 18:51:31,979 - INFO - Comenzando proceso de lectura.
+2024-05-05 18:51:31,980 - INFO - Archivo le�do correctamente.
+2024-05-05 18:51:34,103 - INFO - Comenzando proceso de escritura.
+2024-05-05 18:51:34,104 - INFO - Archivo escrito correctamente.
+2024-05-05 18:51:34,104 - INFO - Comenzando proceso de lectura.
+2024-05-05 18:51:34,106 - INFO - Archivo le�do correctamente.
+2024-05-05 18:51:36,378 - INFO - Comenzando proceso de escritura.
+2024-05-05 18:51:36,379 - INFO - Archivo escrito correctamente.
+2024-05-05 18:51:36,380 - INFO - Comenzando proceso de lectura.
+2024-05-05 18:51:36,380 - INFO - Archivo le�do correctamente.
+2024-05-05 18:51:38,395 - INFO - Comenzando proceso de escritura.
+2024-05-05 18:51:38,396 - INFO - Archivo escrito correctamente.
+2024-05-05 18:51:38,396 - INFO - Comenzando proceso de lectura.
+2024-05-05 18:51:38,397 - INFO - Archivo le�do correctamente.
+2024-05-05 18:51:40,535 - INFO - Comenzando proceso de escritura.
+2024-05-05 18:51:40,537 - INFO - Archivo escrito correctamente.
+2024-05-05 18:51:40,537 - INFO - Comenzando proceso de lectura.
+2024-05-05 18:51:40,538 - INFO - Archivo le�do correctamente.
+2024-05-05 18:51:42,686 - INFO - Comenzando proceso de escritura.
+2024-05-05 18:51:42,687 - INFO - Archivo escrito correctamente.
+2024-05-05 18:51:42,687 - INFO - Comenzando proceso de lectura.
+2024-05-05 18:51:42,688 - ERROR - El archivo no est� en formato UTF-8 y no puede ser le�do.
+2024-05-05 18:51:42,689 - ERROR - Error: No se ha podido escribir el fichero, intentalo nuevamente...
+2024-05-05 18:53:56,659 - INFO - Comenzando proceso de lectura.
+2024-05-05 18:53:56,660 - INFO - Archivo le�do correctamente.
+2024-05-05 18:53:58,817 - INFO - Comenzando proceso de escritura.
+2024-05-05 18:53:58,819 - INFO - Archivo escrito correctamente.
+2024-05-05 18:53:58,819 - INFO - Comenzando proceso de lectura.
+2024-05-05 18:53:58,820 - INFO - Archivo le�do correctamente.
+2024-05-05 18:54:00,916 - INFO - Comenzando proceso de escritura.
+2024-05-05 18:54:00,917 - INFO - Archivo escrito correctamente.
+2024-05-05 18:54:00,918 - INFO - Comenzando proceso de lectura.
+2024-05-05 18:54:00,919 - INFO - Archivo le�do correctamente.
+2024-05-05 18:54:03,280 - INFO - Comenzando proceso de escritura.
+2024-05-05 18:54:03,282 - INFO - Archivo escrito correctamente.
+2024-05-05 18:54:03,282 - INFO - Comenzando proceso de lectura.
+2024-05-05 18:54:03,283 - INFO - Archivo le�do correctamente.
+2024-05-05 18:54:05,396 - INFO - Comenzando proceso de escritura.
+2024-05-05 18:54:05,397 - INFO - Archivo escrito correctamente.
+2024-05-05 18:54:05,398 - INFO - Comenzando proceso de lectura.
+2024-05-05 18:54:05,399 - INFO - Archivo le�do correctamente.
+2024-05-05 18:54:07,671 - INFO - Comenzando proceso de escritura.
+2024-05-05 18:54:07,673 - INFO - Archivo escrito correctamente.
+2024-05-05 18:54:07,673 - INFO - Comenzando proceso de lectura.
+2024-05-05 18:54:07,673 - INFO - Archivo le�do correctamente.
+2024-05-05 18:54:09,689 - INFO - Comenzando proceso de escritura.
+2024-05-05 18:54:09,689 - INFO - Archivo escrito correctamente.
+2024-05-05 18:54:09,690 - INFO - Comenzando proceso de lectura.
+2024-05-05 18:54:09,690 - INFO - Archivo le�do correctamente.
+2024-05-05 18:54:11,825 - INFO - Comenzando proceso de escritura.
+2024-05-05 18:54:11,826 - INFO - Archivo escrito correctamente.
+2024-05-05 18:54:11,826 - INFO - Comenzando proceso de lectura.
+2024-05-05 18:54:11,827 - INFO - Archivo le�do correctamente.
+2024-05-05 18:54:13,976 - INFO - Comenzando proceso de escritura.
+2024-05-05 18:54:13,977 - INFO - Archivo escrito correctamente.
+2024-05-05 18:54:13,977 - INFO - Comenzando proceso de lectura.
+2024-05-05 18:54:13,978 - ERROR - El archivo no est� en formato UTF-8 y no puede ser le�do.
+2024-05-05 18:54:13,980 - ERROR - Error: No se ha podido escribir el fichero, intentalo nuevamente...
+2024-05-05 18:54:40,237 - INFO - Comenzando proceso de lectura.
+2024-05-05 18:54:40,238 - INFO - Archivo le�do correctamente.
+2024-05-05 18:54:42,399 - INFO - Comenzando proceso de escritura.
+2024-05-05 18:54:42,401 - INFO - Archivo escrito correctamente.
+2024-05-05 18:54:42,401 - INFO - Comenzando proceso de lectura.
+2024-05-05 18:54:42,402 - INFO - Archivo le�do correctamente.
+2024-05-05 18:54:44,499 - INFO - Comenzando proceso de escritura.
+2024-05-05 18:54:44,500 - INFO - Archivo escrito correctamente.
+2024-05-05 18:54:44,500 - INFO - Comenzando proceso de lectura.
+2024-05-05 18:54:44,503 - INFO - Archivo le�do correctamente.
+2024-05-05 18:54:46,852 - INFO - Comenzando proceso de escritura.
+2024-05-05 18:54:46,854 - INFO - Archivo escrito correctamente.
+2024-05-05 18:54:46,854 - INFO - Comenzando proceso de lectura.
+2024-05-05 18:54:46,855 - INFO - Archivo le�do correctamente.
+2024-05-05 18:54:48,969 - INFO - Comenzando proceso de escritura.
+2024-05-05 18:54:48,970 - INFO - Archivo escrito correctamente.
+2024-05-05 18:54:48,971 - INFO - Comenzando proceso de lectura.
+2024-05-05 18:54:48,972 - INFO - Archivo le�do correctamente.
+2024-05-05 18:54:51,246 - INFO - Comenzando proceso de escritura.
+2024-05-05 18:54:51,248 - INFO - Archivo escrito correctamente.
+2024-05-05 18:54:51,248 - INFO - Comenzando proceso de lectura.
+2024-05-05 18:54:51,248 - INFO - Archivo le�do correctamente.
+2024-05-05 18:54:53,264 - INFO - Comenzando proceso de escritura.
+2024-05-05 18:54:53,264 - INFO - Archivo escrito correctamente.
+2024-05-05 18:54:53,265 - INFO - Comenzando proceso de lectura.
+2024-05-05 18:54:53,266 - INFO - Archivo le�do correctamente.
+2024-05-05 18:54:55,400 - INFO - Comenzando proceso de escritura.
+2024-05-05 18:54:55,402 - INFO - Archivo escrito correctamente.
+2024-05-05 18:54:55,402 - INFO - Comenzando proceso de lectura.
+2024-05-05 18:54:55,403 - INFO - Archivo le�do correctamente.
+2024-05-05 18:54:57,551 - INFO - Comenzando proceso de escritura.
+2024-05-05 18:54:57,552 - INFO - Archivo escrito correctamente.
+2024-05-05 18:54:57,552 - INFO - Comenzando proceso de lectura.
+2024-05-05 18:54:57,553 - ERROR - El archivo no est� en formato UTF-8 y no puede ser le�do.
+2024-05-05 18:54:57,554 - ERROR - Error: No se ha podido escribir el fichero, intentalo nuevamente...
+2024-05-05 19:55:56,242 - INFO - Comenzando proceso de lectura del archivo .\entrada\17 LEYES DEL TRABAJO EN EQUIPO.txt.
+2024-05-05 19:55:56,243 - INFO - Archivo .\entrada\17 LEYES DEL TRABAJO EN EQUIPO.txt leído correctamente.
+2024-05-05 19:55:58,407 - INFO - Comenzando proceso de escritura del archivo .\sortida\17 LEYES DEL TRABAJO EN EQUIPO_boges.txt.
+2024-05-05 19:55:58,408 - INFO - Archivo .\sortida\17 LEYES DEL TRABAJO EN EQUIPO_boges.txt escrito correctamente.
+2024-05-05 19:55:58,408 - INFO - Comenzando proceso de lectura del archivo .\entrada\25 MANERAS DE GANARSE A LA GENTE - .txt.
+2024-05-05 19:55:58,409 - INFO - Archivo .\entrada\25 MANERAS DE GANARSE A LA GENTE - .txt leído correctamente.
+2024-05-05 19:56:00,509 - INFO - Comenzando proceso de escritura del archivo .\sortida\25 MANERAS DE GANARSE A LA GENTE - _boges.txt.
+2024-05-05 19:56:00,510 - INFO - Archivo .\sortida\25 MANERAS DE GANARSE A LA GENTE - _boges.txt escrito correctamente.
+2024-05-05 19:56:00,510 - INFO - Comenzando proceso de lectura del archivo .\entrada\Abe Shana - La última sirena.txt.
+2024-05-05 19:56:00,512 - INFO - Archivo .\entrada\Abe Shana - La última sirena.txt leído correctamente.
+2024-05-05 19:56:02,865 - INFO - Comenzando proceso de escritura del archivo .\sortida\Abe Shana - La última sirena_boges.txt.
+2024-05-05 19:56:02,867 - INFO - Archivo .\sortida\Abe Shana - La última sirena_boges.txt escrito correctamente.
+2024-05-05 19:56:02,867 - INFO - Comenzando proceso de lectura del archivo .\entrada\ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt.
+2024-05-05 19:56:02,868 - INFO - Archivo .\entrada\ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt leído correctamente.
+2024-05-05 19:56:04,985 - INFO - Comenzando proceso de escritura del archivo .\sortida\ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt.
+2024-05-05 19:56:04,986 - INFO - Archivo .\sortida\ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt escrito correctamente.
+2024-05-05 19:56:04,986 - INFO - Comenzando proceso de lectura del archivo .\entrada\El Oro Y La Ceniza - Abecassis Eliette .txt.
+2024-05-05 19:56:04,988 - INFO - Archivo .\entrada\El Oro Y La Ceniza - Abecassis Eliette .txt leído correctamente.
+2024-05-05 19:56:07,262 - INFO - Comenzando proceso de escritura del archivo .\sortida\El Oro Y La Ceniza - Abecassis Eliette _boges.txt.
+2024-05-05 19:56:07,263 - INFO - Archivo .\sortida\El Oro Y La Ceniza - Abecassis Eliette _boges.txt escrito correctamente.
+2024-05-05 19:56:07,264 - INFO - Comenzando proceso de lectura del archivo .\entrada\paraules.txt.
+2024-05-05 19:56:07,264 - INFO - Archivo .\entrada\paraules.txt leído correctamente.
+2024-05-05 19:56:09,280 - INFO - Comenzando proceso de escritura del archivo .\sortida\paraules_boges.txt.
+2024-05-05 19:56:09,280 - INFO - Archivo .\sortida\paraules_boges.txt escrito correctamente.
+2024-05-05 19:56:09,281 - INFO - Comenzando proceso de lectura del archivo .\entrada\SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt.
+2024-05-05 19:56:09,282 - INFO - Archivo .\entrada\SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt leído correctamente.
+2024-05-05 19:56:11,417 - INFO - Comenzando proceso de escritura del archivo .\sortida\SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt.
+2024-05-05 19:56:11,418 - INFO - Archivo .\sortida\SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt escrito correctamente.
+2024-05-05 19:56:11,418 - INFO - Comenzando proceso de lectura del archivo .\entrada\VIVE TU SUEÑO - JOHN MAXWELL.txt.
+2024-05-05 19:56:11,419 - INFO - Archivo .\entrada\VIVE TU SUEÑO - JOHN MAXWELL.txt leído correctamente.
+2024-05-05 19:56:13,568 - INFO - Comenzando proceso de escritura del archivo .\sortida\VIVE TU SUEÑO - JOHN MAXWELL_boges.txt.
+2024-05-05 19:56:13,569 - INFO - Archivo .\sortida\VIVE TU SUEÑO - JOHN MAXWELL_boges.txt escrito correctamente.
+2024-05-05 19:56:13,569 - INFO - Comenzando proceso de lectura del archivo .\entrada\x.txt.
+2024-05-05 19:56:13,570 - ERROR - El archivo .\entrada\x.txt no está en formato UTF-8 y no puede ser leído.
+2024-05-05 19:56:13,572 - ERROR - Error: No se ha podido escribir el archivo .\sortida\x_boges.txt, intentalo nuevamente...
+2024-05-05 20:04:09,625 - INFO - Comenzando proceso de lectura del archivo '.\entrada\17 LEYES DEL TRABAJO EN EQUIPO.txt'.
+2024-05-05 20:04:09,627 - INFO - Archivo '.\entrada\17 LEYES DEL TRABAJO EN EQUIPO.txt' leído correctamente.
+2024-05-05 20:04:11,821 - INFO - Comenzando proceso de escritura del archivo '.\sortida\17 LEYES DEL TRABAJO EN EQUIPO_boges.txt'.
+2024-05-05 20:04:11,822 - INFO - Archivo '.\sortida\17 LEYES DEL TRABAJO EN EQUIPO_boges.txt' escrito correctamente.
+2024-05-05 20:04:11,822 - INFO - Comenzando proceso de lectura del archivo '.\entrada\25 MANERAS DE GANARSE A LA GENTE - .txt'.
+2024-05-05 20:04:11,823 - INFO - Archivo '.\entrada\25 MANERAS DE GANARSE A LA GENTE - .txt' leído correctamente.
+2024-05-05 20:04:13,921 - INFO - Comenzando proceso de escritura del archivo '.\sortida\25 MANERAS DE GANARSE A LA GENTE - _boges.txt'.
+2024-05-05 20:04:13,922 - INFO - Archivo '.\sortida\25 MANERAS DE GANARSE A LA GENTE - _boges.txt' escrito correctamente.
+2024-05-05 20:04:13,923 - INFO - Comenzando proceso de lectura del archivo '.\entrada\Abe Shana - La última sirena.txt'.
+2024-05-05 20:04:13,925 - INFO - Archivo '.\entrada\Abe Shana - La última sirena.txt' leído correctamente.
+2024-05-05 20:04:16,274 - INFO - Comenzando proceso de escritura del archivo '.\sortida\Abe Shana - La última sirena_boges.txt'.
+2024-05-05 20:04:16,276 - INFO - Archivo '.\sortida\Abe Shana - La última sirena_boges.txt' escrito correctamente.
+2024-05-05 20:04:16,276 - INFO - Comenzando proceso de lectura del archivo '.\entrada\ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt'.
+2024-05-05 20:04:16,277 - INFO - Archivo '.\entrada\ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt' leído correctamente.
+2024-05-05 20:04:18,391 - INFO - Comenzando proceso de escritura del archivo '.\sortida\ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt'.
+2024-05-05 20:04:18,392 - INFO - Archivo '.\sortida\ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt' escrito correctamente.
+2024-05-05 20:04:18,393 - INFO - Comenzando proceso de lectura del archivo '.\entrada\El Oro Y La Ceniza - Abecassis Eliette .txt'.
+2024-05-05 20:04:18,394 - INFO - Archivo '.\entrada\El Oro Y La Ceniza - Abecassis Eliette .txt' leído correctamente.
+2024-05-05 20:04:20,666 - INFO - Comenzando proceso de escritura del archivo '.\sortida\El Oro Y La Ceniza - Abecassis Eliette _boges.txt'.
+2024-05-05 20:04:20,667 - INFO - Archivo '.\sortida\El Oro Y La Ceniza - Abecassis Eliette _boges.txt' escrito correctamente.
+2024-05-05 20:04:20,668 - INFO - Comenzando proceso de lectura del archivo '.\entrada\paraules.txt'.
+2024-05-05 20:04:20,668 - INFO - Archivo '.\entrada\paraules.txt' leído correctamente.
+2024-05-05 20:04:22,684 - INFO - Comenzando proceso de escritura del archivo '.\sortida\paraules_boges.txt'.
+2024-05-05 20:04:22,685 - INFO - Archivo '.\sortida\paraules_boges.txt' escrito correctamente.
+2024-05-05 20:04:22,685 - INFO - Comenzando proceso de lectura del archivo '.\entrada\SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt'.
+2024-05-05 20:04:22,686 - INFO - Archivo '.\entrada\SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt' leído correctamente.
+2024-05-05 20:04:24,822 - INFO - Comenzando proceso de escritura del archivo '.\sortida\SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt'.
+2024-05-05 20:04:24,824 - INFO - Archivo '.\sortida\SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt' escrito correctamente.
+2024-05-05 20:04:24,824 - INFO - Comenzando proceso de lectura del archivo '.\entrada\VIVE TU SUEÑO - JOHN MAXWELL.txt'.
+2024-05-05 20:04:24,825 - INFO - Archivo '.\entrada\VIVE TU SUEÑO - JOHN MAXWELL.txt' leído correctamente.
+2024-05-05 20:04:26,973 - INFO - Comenzando proceso de escritura del archivo '.\sortida\VIVE TU SUEÑO - JOHN MAXWELL_boges.txt'.
+2024-05-05 20:04:26,974 - INFO - Archivo '.\sortida\VIVE TU SUEÑO - JOHN MAXWELL_boges.txt' escrito correctamente.
+2024-05-05 20:04:26,975 - INFO - Comenzando proceso de lectura del archivo '.\entrada\x.txt'.
+2024-05-05 20:04:26,975 - ERROR - El archivo '.\entrada\x.txt' no está en formato UTF-8 y no puede ser leído.
+2024-05-05 20:04:26,977 - ERROR - Error: No se ha podido escribir el archivo '.\sortida\x_boges.txt', intentalo nuevamente...

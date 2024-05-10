@@ -1,0 +1,36 @@
+2024-05-05 20:15:15,588 - INFO - Comenzando proceso de lectura del archivo '.\entrada\17 LEYES DEL TRABAJO EN EQUIPO.txt'.
+2024-05-05 20:15:15,590 - INFO - Archivo '.\entrada\17 LEYES DEL TRABAJO EN EQUIPO.txt' leído correctamente.
+2024-05-05 20:15:17,752 - INFO - Comenzando proceso de escritura del archivo '.\sortida\17 LEYES DEL TRABAJO EN EQUIPO_boges.txt'.
+2024-05-05 20:15:17,753 - INFO - Archivo '.\sortida\17 LEYES DEL TRABAJO EN EQUIPO_boges.txt' escrito correctamente.
+2024-05-05 20:15:17,754 - INFO - Comenzando proceso de lectura del archivo '.\entrada\25 MANERAS DE GANARSE A LA GENTE - .txt'.
+2024-05-05 20:15:17,755 - INFO - Archivo '.\entrada\25 MANERAS DE GANARSE A LA GENTE - .txt' leído correctamente.
+2024-05-05 20:15:19,852 - INFO - Comenzando proceso de escritura del archivo '.\sortida\25 MANERAS DE GANARSE A LA GENTE - _boges.txt'.
+2024-05-05 20:15:19,853 - INFO - Archivo '.\sortida\25 MANERAS DE GANARSE A LA GENTE - _boges.txt' escrito correctamente.
+2024-05-05 20:15:19,854 - INFO - Comenzando proceso de lectura del archivo '.\entrada\Abe Shana - La última sirena.txt'.
+2024-05-05 20:15:19,856 - INFO - Archivo '.\entrada\Abe Shana - La última sirena.txt' leído correctamente.
+2024-05-05 20:15:22,215 - INFO - Comenzando proceso de escritura del archivo '.\sortida\Abe Shana - La última sirena_boges.txt'.
+2024-05-05 20:15:22,217 - INFO - Archivo '.\sortida\Abe Shana - La última sirena_boges.txt' escrito correctamente.
+2024-05-05 20:15:22,217 - INFO - Comenzando proceso de lectura del archivo '.\entrada\ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt'.
+2024-05-05 20:15:22,218 - INFO - Archivo '.\entrada\ACTITUD DE VENCEDOR - JOHN C. MAXWELL.txt' leído correctamente.
+2024-05-05 20:15:24,333 - INFO - Comenzando proceso de escritura del archivo '.\sortida\ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt'.
+2024-05-05 20:15:24,335 - INFO - Archivo '.\sortida\ACTITUD DE VENCEDOR - JOHN C. MAXWELL_boges.txt' escrito correctamente.
+2024-05-05 20:15:24,335 - INFO - Comenzando proceso de lectura del archivo '.\entrada\El Oro Y La Ceniza - Abecassis Eliette .txt'.
+2024-05-05 20:15:24,336 - INFO - Archivo '.\entrada\El Oro Y La Ceniza - Abecassis Eliette .txt' leído correctamente.
+2024-05-05 20:15:26,615 - INFO - Comenzando proceso de escritura del archivo '.\sortida\El Oro Y La Ceniza - Abecassis Eliette _boges.txt'.
+2024-05-05 20:15:26,617 - INFO - Archivo '.\sortida\El Oro Y La Ceniza - Abecassis Eliette _boges.txt' escrito correctamente.
+2024-05-05 20:15:26,618 - INFO - Comenzando proceso de lectura del archivo '.\entrada\paraules.txt'.
+2024-05-05 20:15:26,618 - INFO - Archivo '.\entrada\paraules.txt' leído correctamente.
+2024-05-05 20:15:28,634 - INFO - Comenzando proceso de escritura del archivo '.\sortida\paraules_boges.txt'.
+2024-05-05 20:15:28,634 - INFO - Archivo '.\sortida\paraules_boges.txt' escrito correctamente.
+2024-05-05 20:15:28,635 - INFO - Comenzando proceso de lectura del archivo '.\entrada\SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt'.
+2024-05-05 20:15:28,636 - INFO - Archivo '.\entrada\SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL.txt' leído correctamente.
+2024-05-05 20:15:30,779 - INFO - Comenzando proceso de escritura del archivo '.\sortida\SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt'.
+2024-05-05 20:15:30,780 - INFO - Archivo '.\sortida\SEAMOS PERSONAS DE INFLUENCIA - JOHN MAXWELL_boges.txt' escrito correctamente.
+2024-05-05 20:15:30,781 - INFO - Comenzando proceso de lectura del archivo '.\entrada\VIVE TU SUEÑO - JOHN MAXWELL.txt'.
+2024-05-05 20:15:30,782 - INFO - Archivo '.\entrada\VIVE TU SUEÑO - JOHN MAXWELL.txt' leído correctamente.
+2024-05-05 20:15:32,932 - INFO - Comenzando proceso de escritura del archivo '.\sortida\VIVE TU SUEÑO - JOHN MAXWELL_boges.txt'.
+2024-05-05 20:15:32,933 - INFO - Archivo '.\sortida\VIVE TU SUEÑO - JOHN MAXWELL_boges.txt' escrito correctamente.
+2024-05-05 20:15:32,933 - INFO - Comenzando proceso de lectura del archivo '.\entrada\x.txt'.
+2024-05-05 20:15:32,934 - ERROR - El archivo '.\entrada\x.txt' no está en formato UTF-8 y no puede ser leído.
+2024-05-05 20:15:32,936 - ERROR - Error: No se ha podido escribir el archivo '.\sortida\x_boges.txt', intentalo nuevamente...
+2024-05-05 20:15:32,936 - INFO - Tiempo total transcurrido en procesar todos los archivos: 00 días, 00 horas, 00 minutos, 17 segundos, 347 milisegundos.
