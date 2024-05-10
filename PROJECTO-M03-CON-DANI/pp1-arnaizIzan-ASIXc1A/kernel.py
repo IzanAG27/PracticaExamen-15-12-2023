@@ -45,7 +45,7 @@ def leer_archivo():
 
     try:
         with open(INPUT_FILE, mode="r", encoding="utf-8") as f:
-            file = f.read() # Que quieres leer
+            file = f.read()  # Que quieres leer
         logging.info(f"Archivo leido correctamente")
         return file
     except FileNotFoundError:
@@ -53,7 +53,10 @@ def leer_archivo():
         return None
 
 
-def escribir_archivo(OUTPUT_FILE, words):
+file = leer_archivo()
+
+
+def escribir_archivo(file, words):
     # Si no existe OUTPUT_DIR (error en log)
     if not os.path.exists(OUTPUT_DIR):
         logging.error(f"El directorio de salida {OUTPUT_DIR} no existe")
@@ -67,4 +70,3 @@ def escribir_archivo(OUTPUT_FILE, words):
     except Exception as e:
         logging.error(f"Error al escribir en {OUTPUT_FILE}: {str(e)}")
 # endregion
-
