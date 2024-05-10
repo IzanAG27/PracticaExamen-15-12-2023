@@ -1,0 +1,11 @@
+
+
+# Replace 'file.txt' with your file path
+with open('file.txt', 'r') as file:
+    content = file.read()
+print(content)
+
+
+# Replace 'file.txt' with your file path
+with open('file.txt', 'w') as file:
+    file = file.write('Hello, World!')
