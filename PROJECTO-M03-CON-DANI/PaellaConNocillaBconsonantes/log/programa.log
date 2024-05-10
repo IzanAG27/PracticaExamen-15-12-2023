@@ -1,0 +1,6 @@
+2024-05-10 09:54:33,974 - INFO - Leyendo el archivo paraules.txt...
+2024-05-10 09:54:46,522 - INFO - Leyendo el archivo paraules.txt...
+2024-05-10 09:54:46,572 - INFO - Las palabras del fichero de entrada 'paraules.txt' se han escrito en el archivo correspondiente.
+2024-05-10 09:54:46,572 - INFO - Se ha terminado de escribir en el archivo correspondiente.
+2024-05-10 09:54:46,576 - INFO - Las palabras del fichero de entrada 'paraules.txt' se han escrito en el archivo 'consonantes.txt'.
+2024-05-10 09:54:46,576 - INFO - Se ha terminado de escribir en el archivo 'consonantes.txt'.
