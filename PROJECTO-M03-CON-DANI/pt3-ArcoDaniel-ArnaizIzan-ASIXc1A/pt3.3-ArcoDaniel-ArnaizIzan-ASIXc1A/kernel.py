@@ -25,7 +25,7 @@ import sys
 
 # region Variables globales
 INPUT_DIR = os.path.join(".", "entrada")
-OUTPUT_DIR = os.path.join(".", "_sortida")
+OUTPUT_DIR = os.path.join(".", "sortida")
 LOG_DIR = os.path.join(".", "log")
 # endregion
 

@@ -87,5 +87,5 @@ def write_letter_counts_to_file(words):
 
         logging.info(f"Archivo escrito correctamente")
     except:
-        logging.error("no se ha podido escribir en el archivo de salida", OUTPUT_FILE)
+        logging.error("No se ha podido escribir en el archivo de salida", OUTPUT_FILE)
         return None
