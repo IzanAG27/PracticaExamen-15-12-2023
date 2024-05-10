@@ -104,3 +104,11 @@
 2024-05-09 21:17:54,434 - INFO - 0 palabras escritas en .\sortida\words-cio.txt
 2024-05-09 21:17:54,435 - INFO - Archivo escrito correctamente
 2024-05-09 21:17:54,435 - INFO - La ejecucion de la tarea ha sido un exito
+2024-05-10 08:46:23,118 - INFO - Archivo leido correctamente
+2024-05-10 08:46:23,120 - INFO - 1 palabras escritas en ./sortida/words-ing.txt
+2024-05-10 08:46:23,120 - INFO - 6 palabras escritas en ./sortida/words-itb.txt
+2024-05-10 08:46:23,121 - INFO - 41 palabras escritas en ./sortida/words-tic.txt
+2024-05-10 08:46:23,121 - INFO - 42 palabras escritas en ./sortida/words-tica.txt
+2024-05-10 08:46:23,121 - INFO - 0 palabras escritas en ./sortida/words-cio.txt
+2024-05-10 08:46:23,122 - INFO - Archivo escrito correctamente
+2024-05-10 08:46:23,122 - INFO - La ejecucion de la tarea ha sido un exito

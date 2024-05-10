@@ -4,15 +4,11 @@ import logging
 # Configuración del logging
 LOG_DIR = os.path.join(".", "log")
 INPUT_DIR = os.path.join(".", "entrada")
-OUTPUT_DIR = os.path.join(".", "_sortida")
+OUTPUT_DIR = os.path.join(".", "sortida")
 LOG_FILE = os.path.join(LOG_DIR, 'programa.log')
 
 if not os.path.exists(LOG_DIR):
     os.makedirs(LOG_DIR)
-if not os.path.exists(INPUT_DIR):
-    os.makedirs(INPUT_DIR)
-if not os.path.exists(OUTPUT_DIR):
-    os.makedirs(OUTPUT_DIR)
 
 logging.basicConfig(filename=LOG_FILE,
                     filemode='a',

@@ -49,3 +49,9 @@
 2024-05-09 21:11:37,122 - INFO - 1 palabras escritas en .\sortida\words-tica.txt
 2024-05-09 21:11:37,122 - INFO - 1 palabras escritas en .\sortida\words-cio.txt
 2024-05-09 21:11:37,123 - INFO - 28 palabras escritas en .\sortida\words-ac.txt
+2024-05-10 08:46:03,149 - INFO - 1928 palabras leídas de ./entrada/paraules.txt
+2024-05-10 08:46:03,150 - INFO - 1 palabras escritas en ./sortida/words-ing.txt
+2024-05-10 08:46:03,150 - INFO - 2 palabras escritas en ./sortida/words-tic.txt
+2024-05-10 08:46:03,151 - INFO - 1 palabras escritas en ./sortida/words-tica.txt
+2024-05-10 08:46:03,151 - INFO - 1 palabras escritas en ./sortida/words-cio.txt
+2024-05-10 08:46:03,151 - INFO - 28 palabras escritas en ./sortida/words-ac.txt
