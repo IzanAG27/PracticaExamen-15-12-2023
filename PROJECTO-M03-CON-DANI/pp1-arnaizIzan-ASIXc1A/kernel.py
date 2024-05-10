@@ -51,7 +51,7 @@ logging.basicConfig(
 # endregion
 
 # region funciones
-def read_words_from_file():
+def read_file_to_get_words():
     # Tratamiento de error por si no existe el directorio de entrada.
     if not os.path.exists(INPUT_DIR):
         logging.error(f"El directorio de entrada {INPUT_DIR} no existe")
@@ -67,7 +67,7 @@ def read_words_from_file():
 
 
 # region task1
-def write_to_file(filename, words):
+def write_file_to_set_vowels(filename, words):
     if not os.path.exists(OUTPUT_DIR):
         logging.error(f"El directorio de salida {OUTPUT_DIR} no existe")
         return
@@ -87,11 +87,11 @@ def process_words(words):
     word_o = [word for word in words if word.startswith('o')]
     word_u = [word for word in words if word.startswith('u')]
 
-    write_to_file(OUTPUT_FILE_A, word_a)
-    write_to_file(OUTPUT_FILE_E, word_e)
-    write_to_file(OUTPUT_FILE_I, word_i)
-    write_to_file(OUTPUT_FILE_O, word_o)
-    write_to_file(OUTPUT_FILE_U, word_u)
+    write_file_to_set_vowels(OUTPUT_FILE_A, word_a)
+    write_file_to_set_vowels(OUTPUT_FILE_E, word_e)
+    write_file_to_set_vowels(OUTPUT_FILE_I, word_i)
+    write_file_to_set_vowels(OUTPUT_FILE_O, word_o)
+    write_file_to_set_vowels(OUTPUT_FILE_U, word_u)
 
 
 # endregion

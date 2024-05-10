@@ -25,7 +25,7 @@ def main():
             logging.error("El directorio de salida %s no se encuentra", OUTPUT_DIR)
             return
         logging.info(f"Comenzando la lectura del archivo {INPUT_FILE}...")
-        words = read_words_from_file()
+        words = read_file_to_get_words()
         if words is not None:
             process_words(words)
             count_chars_and_write_file(words)
