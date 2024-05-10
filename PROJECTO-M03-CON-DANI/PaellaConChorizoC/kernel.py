@@ -46,12 +46,20 @@ def write_to_file(filename, words):
     if not os.path.exists(OUTPUT_DIR):
         logging.error(f"El directorio de salida {OUTPUT_DIR} no existe")
         return
-    """Escribe una lista de palabras en un archivo"""
+
+
+
+
     try:
         with open(filename, 'w', encoding="utf-8") as f:
             for word in words:
                 f.write(word + '\n')
         logging.info(f"{len(words)} palabras escritas en {filename}")
+
+
+
+
+
     except Exception as e:
         logging.error(f"Error al escribir en {filename}: {str(e)}")
 
